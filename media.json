@@ -1,0 +1,352 @@
+[
+  {
+    "id": "juice-cups",
+    "categoryId": "glass-homeware",
+    "image": "assets/images/products/GH-CUP-001.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Dog Knot Bulbous Glass Juice Cup",
+      "es": "Vasos para zumo · GH-CUP-001",
+      "ar": "أكواب العصير · GH-CUP-001",
+      "zh": "小狗结圆肚玻璃制品果汁杯"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "GH-CUP-001"
+  },
+  {
+    "id": "cocktail-glasses",
+    "categoryId": "glass-homeware",
+    "image": "assets/images/products/GH-CUP-003.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Orange Cocktail Glass",
+      "es": "Copas de cóctel · GH-CUP-003",
+      "ar": "كؤوس الكوكتيل · GH-CUP-003",
+      "zh": "橘子鸡尾酒杯"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "GH-CUP-003"
+  },
+  {
+    "id": "champagne-flutes",
+    "categoryId": "glass-homeware",
+    "image": "assets/images/products/GH-STE-007.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Transparent Stem Cylinder Champagne Flute (Bow-knot)",
+      "es": "Copas de champán · GH-STE-007",
+      "ar": "كؤوس الشمبانيا · GH-STE-007",
+      "zh": "透明柱直筒香槟杯蝴蝶结款"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "GH-STE-007"
+  },
+  {
+    "id": "ice-cream-bowls",
+    "categoryId": "glass-homeware",
+    "image": "assets/images/products/GH-BWL-008.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Lattice Ice Cream Bowl",
+      "es": "Cuencos para helado · GH-BWL-008",
+      "ar": "أوعية الآيس كريم · GH-BWL-008",
+      "zh": "菱格雪糕碗"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "GH-BWL-008"
+  },
+  {
+    "id": "coffee-cups",
+    "categoryId": "liuli-tableware",
+    "image": "assets/images/products/LH-CUP-001.png",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Hand-painted High-waist Liuli Coffee Cup",
+      "es": "Tazas y platos de café · LH-CUP-001",
+      "ar": "أكواب وصحون القهوة · LH-CUP-001",
+      "zh": "琉璃彩绘高腰咖啡杯"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LH-CUP-001"
+  },
+  {
+    "id": "dining-bowls",
+    "categoryId": "liuli-tableware",
+    "image": "assets/images/products/LH-BWL-011.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Water Ripple Liuli Dining Bowl",
+      "es": "Cuencos y platos · LH-BWL-011",
+      "ar": "أوعية وأطباق الطعام · LH-BWL-011",
+      "zh": "琉璃水波纹餐食碗"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LH-BWL-011"
+  },
+  {
+    "id": "candy-bowls",
+    "categoryId": "liuli-tableware",
+    "image": "assets/images/products/LH-BWL-014-bowl-and-saucer.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Hand-painted Colored Liuli Candy Bowl",
+      "es": "Cuencos para dulces · LH-BWL-014",
+      "ar": "أوعية الحلوى · LH-BWL-014",
+      "zh": "彩色彩绘琉璃糖果碗"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LH-BWL-014"
+  },
+  {
+    "id": "candy-jars",
+    "categoryId": "liuli-tableware",
+    "image": "assets/images/products/LH-JAR-015.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Hand-painted Liuli Candy Jar",
+      "es": "Tarros para dulces · LH-JAR-015",
+      "ar": "مرطبانات الحلوى · LH-JAR-015",
+      "zh": "琉璃彩绘糖果罐"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LH-JAR-015"
+  },
+  {
+    "id": "wine-glasses",
+    "categoryId": "liuli-tableware",
+    "image": "assets/images/products/LH-STE-016.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Red High Heel High-waist Goblet",
+      "es": "Copas de vino · LH-STE-016",
+      "ar": "كؤوس النبيذ · LH-STE-016",
+      "zh": "红高跟高腰高脚杯"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LH-STE-016"
+  },
+  {
+    "id": "whiskey-glasses",
+    "categoryId": "liuli-tableware",
+    "image": "assets/images/products/LH-STE-026.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Liuli Whiskey Glass (Innocent)",
+      "es": "Vasos de whisky · LH-STE-026",
+      "ar": "كؤوس الويسكي · LH-STE-026",
+      "zh": "琉璃威士忌酒杯（天真）"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LH-STE-026"
+  },
+  {
+    "id": "tea-sets",
+    "categoryId": "liuli-tableware",
+    "image": "assets/images/products/LH-SET-029.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Heritage Antique Jade Tea Set",
+      "es": "Juegos de té · LH-SET-029",
+      "ar": "أطقم الشاي · LH-SET-029",
+      "zh": "非遗古玉茶套装"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LH-SET-029"
+  },
+  {
+    "id": "fruit-plates",
+    "categoryId": "collectible-art",
+    "image": "assets/images/products/LA-ART-001.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Premium Roman Stem Liuli Fruit Plate",
+      "es": "Fuentes para fruta · LA-ART-001",
+      "ar": "أطباق الفاكهة · LA-ART-001",
+      "zh": "琉璃制品罗马柱高端水果盘"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LA-ART-001"
+  },
+  {
+    "id": "decanters",
+    "categoryId": "collectible-art",
+    "image": "assets/images/products/LA-ART-002.png",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Liuli Decanter",
+      "es": "Decantadores · LA-ART-002",
+      "ar": "قوارير التهوية · LA-ART-002",
+      "zh": "琉璃醒酒器"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LA-ART-002"
+  },
+  {
+    "id": "decorative-bottles",
+    "categoryId": "collectible-art",
+    "image": "assets/images/products/LA-ART-003.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Human Face Liuli Wine Bottle",
+      "es": "Botellas decorativas · LA-ART-003",
+      "ar": "زجاجات للزينة · LA-ART-003",
+      "zh": "琉璃制品人脸酒瓶"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LA-ART-003"
+  },
+  {
+    "id": "cigar-ashtrays",
+    "categoryId": "collectible-art",
+    "image": "assets/images/products/LA-ART-004.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Liuli Cigar Ashtray",
+      "es": "Ceniceros para puros · LA-ART-004",
+      "ar": "منافض السيجار · LA-ART-004",
+      "zh": "琉璃雪茄缸"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LA-ART-004"
+  },
+  {
+    "id": "large-floral-art",
+    "categoryId": "collectible-art",
+    "image": "assets/images/products/LA-FLR-005.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Ethereal Iris Radiance",
+      "es": "Arte floral de gran formato · LA-FLR-005",
+      "ar": "فن زهري كبير · LA-FLR-005",
+      "zh": "幽兰静绽"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LA-FLR-005"
+  },
+  {
+    "id": "small-floral-art",
+    "categoryId": "collectible-art",
+    "image": "assets/images/products/LA-FLR-013.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Dawn's Budding Lotus",
+      "es": "Arte floral de pequeño formato · LA-FLR-013",
+      "ar": "فن زهري صغير · LA-FLR-013",
+      "zh": "晨曦初蕊"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LA-FLR-013"
+  },
+  {
+    "id": "bracelets",
+    "categoryId": "liuli-jewelry",
+    "image": "assets/images/products/LJ-BRC-001.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Traditional Liuli Purple Carp Bracelet",
+      "es": "Cuentas y pulseras · LJ-BRC-001",
+      "ar": "خرز وأساور · LJ-BRC-001",
+      "zh": "传统工艺琉璃紫鲤手珠"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LJ-BRC-001"
+  },
+  {
+    "id": "necklaces",
+    "categoryId": "liuli-jewelry",
+    "image": "assets/images/products/LJ-BRC012.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Blue Jellyfish Liuli Necklace",
+      "es": "Collares · LJ-BRC012",
+      "ar": "قلائد · LJ-BRC012",
+      "zh": "蓝水母琉璃项链"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LJ-BRC012"
+  },
+  {
+    "id": "rings",
+    "categoryId": "liuli-jewelry",
+    "image": "assets/images/products/LJ-BRC016.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Gold Foil Black Swirl Pattern Liuli Ring",
+      "es": "Anillos · LJ-BRC016",
+      "ar": "خواتم · LJ-BRC016",
+      "zh": "金箔黑色旋转花纹琉璃戒指"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LJ-BRC016"
+  },
+  {
+    "id": "decorative-vases",
+    "categoryId": "decor-objects",
+    "image": "assets/images/products/LJ-BRC018.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Handmade Liuli Bulbous Yellow Vase",
+      "es": "Jarrones decorativos · LJ-BRC018",
+      "ar": "مزهريات للزينة · LJ-BRC018",
+      "zh": "手工工艺琉璃胖肚琉璃黄色花瓶"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LJ-BRC018"
+  },
+  {
+    "id": "animal-figurines",
+    "categoryId": "decor-objects",
+    "image": "assets/images/products/LJ-BRC031.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Handmade Liuli Rooster Ornament",
+      "es": "Figuras de animales · LJ-BRC031",
+      "ar": "مجسمات حيوانات · LJ-BRC031",
+      "zh": "手工工艺琉璃大公鸡摆件"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LJ-BRC031"
+  },
+  {
+    "id": "figurative-art",
+    "categoryId": "decor-objects",
+    "image": "assets/images/products/LJ-BRC032.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Handmade Liuli Red Lips Green Person Ornament",
+      "es": "Arte figurativo y abstracto · LJ-BRC032",
+      "ar": "فن تجريدي ومجسمات بشرية · LJ-BRC032",
+      "zh": "手工工艺琉璃红唇绿人摆件"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LJ-BRC032"
+  },
+  {
+    "id": "trophies",
+    "categoryId": "decor-objects",
+    "image": "assets/images/products/LJ-BRC030.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Handmade Liuli Polaris Office Ornament",
+      "es": "Trofeos y piezas conmemorativas · LJ-BRC030",
+      "ar": "جوائز وقطع تذكارية · LJ-BRC030",
+      "zh": "手工工艺琉璃北极星办公室摆件"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LJ-BRC030"
+  },
+  {
+    "id": "festive-ornaments",
+    "categoryId": "decor-objects",
+    "image": "assets/images/products/LJ-BRC040.jpg",
+    "focus": "50% 50%",
+    "alt": {
+      "en": "Handmade Liuli Starry Christmas Tree (8 pcs) Ornament",
+      "es": "Adornos festivos · LJ-BRC040",
+      "ar": "زينة المناسبات · LJ-BRC040",
+      "zh": "手工工艺琉璃星星圣诞树摆件中"
+    },
+    "source": "Product archive reference",
+    "representativeSpu": "LJ-BRC040"
+  }
+]

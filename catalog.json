@@ -1,0 +1,4778 @@
+{
+  "meta": {
+    "version": "2026-09-14",
+    "productCount": 111,
+    "categoryCount": 5,
+    "subcategoryCount": 25,
+    "tradeTerms": [
+      "EXW",
+      "FOB",
+      "CIF"
+    ],
+    "publicDataPolicy": "Product information only; pricing and numeric MOQ are confirmed by inquiry.",
+    "commercialNote": "Availability, MOQ, sample fees and timing confirmed by quotation."
+  },
+  "categories": [
+    {
+      "id": "glass-homeware",
+      "en": "Fine Glassware",
+      "es": "Cristalería fina",
+      "ar": "الأواني الزجاجية الراقية",
+      "zh": "玻璃制品家居用具"
+    },
+    {
+      "id": "liuli-tableware",
+      "en": "Liuli Tableware",
+      "es": "Cristalería Liuli",
+      "ar": "أواني لِيُولي المنزلية",
+      "zh": "琉璃制家居用品"
+    },
+    {
+      "id": "collectible-art",
+      "en": "Collectible Liuli Art",
+      "es": "Arte Liuli de colección",
+      "ar": "فن لِيُولي للمقتنيات",
+      "zh": "琉璃制品珍藏大型家居工艺"
+    },
+    {
+      "id": "liuli-jewelry",
+      "en": "Liuli Jewelry",
+      "es": "Joyería Liuli",
+      "ar": "مجوهرات لِيُولي",
+      "zh": "琉璃制品首饰"
+    },
+    {
+      "id": "decor-objects",
+      "en": "Decorative Objects",
+      "es": "Objetos decorativos",
+      "ar": "مجسمات للديكور",
+      "zh": "琉璃制品摆件"
+    }
+  ],
+  "products": [
+    {
+      "spu": "GH-CUP-001",
+      "name": {
+        "en": "Dog Knot Bulbous Glass Juice Cup",
+        "es": "Vasos para zumo · GH-CUP-001",
+        "ar": "أكواب العصير · GH-CUP-001",
+        "zh": "小狗结圆肚玻璃制品果汁杯"
+      },
+      "officialName": "Dog Knot Bulbous Glass Juice Cup",
+      "category": {
+        "id": "glass-homeware",
+        "en": "Fine Glassware",
+        "es": "Cristalería fina",
+        "ar": "الأواني الزجاجية الراقية",
+        "zh": "玻璃制品家居用具"
+      },
+      "subcategory": {
+        "id": "juice-cups",
+        "en": "Juice Cups",
+        "es": "Vasos para zumo",
+        "ar": "أكواب العصير",
+        "zh": "果汁杯"
+      },
+      "spec": {
+        "en": "Rim 5cm H25.1cm Base 6.9cm / 123g",
+        "es": "Borde 5cm H25.1cm Base 6.9cm / 123g",
+        "ar": "الفوهة 5cm H25.1cm القاعدة 6.9cm / 123g",
+        "zh": "杯口5cm H25.1cm 底6.9cm / 123g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "GH-CUP-002",
+      "name": {
+        "en": "Colored Rhombic Juice Cup",
+        "es": "Vasos para zumo · GH-CUP-002",
+        "ar": "أكواب العصير · GH-CUP-002",
+        "zh": "彩色菱纹果汁杯"
+      },
+      "officialName": "Colored Rhombic Juice Cup",
+      "category": {
+        "id": "glass-homeware",
+        "en": "Fine Glassware",
+        "es": "Cristalería fina",
+        "ar": "الأواني الزجاجية الراقية",
+        "zh": "玻璃制品家居用具"
+      },
+      "subcategory": {
+        "id": "juice-cups",
+        "en": "Juice Cups",
+        "es": "Vasos para zumo",
+        "ar": "أكواب العصير",
+        "zh": "果汁杯"
+      },
+      "spec": {
+        "en": "Rim 8.5cm Base 7.5cm H17cm / 352g",
+        "es": "Borde 8.5cm Base 7.5cm H17cm / 352g",
+        "ar": "الفوهة 8.5cm القاعدة 7.5cm H17cm / 352g",
+        "zh": "杯口8.5cm 底7.5cm H17cm / 352g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "GH-CUP-004",
+      "name": {
+        "en": "Glass Strawberry Knot Juice Cup",
+        "es": "Vasos para zumo · GH-CUP-004",
+        "ar": "أكواب العصير · GH-CUP-004",
+        "zh": "玻璃草莓结玻璃制品果汁杯"
+      },
+      "officialName": "Glass Strawberry Knot Juice Cup",
+      "category": {
+        "id": "glass-homeware",
+        "en": "Fine Glassware",
+        "es": "Cristalería fina",
+        "ar": "الأواني الزجاجية الراقية",
+        "zh": "玻璃制品家居用具"
+      },
+      "subcategory": {
+        "id": "juice-cups",
+        "en": "Juice Cups",
+        "es": "Vasos para zumo",
+        "ar": "أكواب العصير",
+        "zh": "果汁杯"
+      },
+      "spec": {
+        "en": "Rim 11.3cm H18cm Base 7.8cm / 113g",
+        "es": "Borde 11.3cm H18cm Base 7.8cm / 113g",
+        "ar": "الفوهة 11.3cm H18cm القاعدة 7.8cm / 113g",
+        "zh": "杯口11.3cm H18cm 底7.8cm / 113g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "GH-CUP-005",
+      "name": {
+        "en": "Leaf Pattern Juice Cup",
+        "es": "Vasos para zumo · GH-CUP-005",
+        "ar": "أكواب العصير · GH-CUP-005",
+        "zh": "叶子花纹果汁杯"
+      },
+      "officialName": "Leaf Pattern Juice Cup",
+      "category": {
+        "id": "glass-homeware",
+        "en": "Fine Glassware",
+        "es": "Cristalería fina",
+        "ar": "الأواني الزجاجية الراقية",
+        "zh": "玻璃制品家居用具"
+      },
+      "subcategory": {
+        "id": "juice-cups",
+        "en": "Juice Cups",
+        "es": "Vasos para zumo",
+        "ar": "أكواب العصير",
+        "zh": "果汁杯"
+      },
+      "spec": {
+        "en": "Large / medium / small sizes 530g/400g/378g",
+        "es": "Tamaños grande / mediano / pequeño 530g/400g/378g",
+        "ar": "مقاسات كبير / متوسط / صغير 530g/400g/378g",
+        "zh": "大/中/小三规格 530g/400g/378g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "GH-CUP-006",
+      "name": {
+        "en": "Roman Pattern Transparent Juice Cup",
+        "es": "Vasos para zumo · GH-CUP-006",
+        "ar": "أكواب العصير · GH-CUP-006",
+        "zh": "罗马花纹透明果汁杯"
+      },
+      "officialName": "Roman Pattern Transparent Juice Cup",
+      "category": {
+        "id": "glass-homeware",
+        "en": "Fine Glassware",
+        "es": "Cristalería fina",
+        "ar": "الأواني الزجاجية الراقية",
+        "zh": "玻璃制品家居用具"
+      },
+      "subcategory": {
+        "id": "juice-cups",
+        "en": "Juice Cups",
+        "es": "Vasos para zumo",
+        "ar": "أكواب العصير",
+        "zh": "果汁杯"
+      },
+      "spec": {
+        "en": "Large / medium / small sizes 530g/400g/376g",
+        "es": "Tamaños grande / mediano / pequeño 530g/400g/376g",
+        "ar": "مقاسات كبير / متوسط / صغير 530g/400g/376g",
+        "zh": "大/中/小三规格 530g/400g/376g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "GH-CUP-003",
+      "name": {
+        "en": "Orange Cocktail Glass",
+        "es": "Copas de cóctel · GH-CUP-003",
+        "ar": "كؤوس الكوكتيل · GH-CUP-003",
+        "zh": "橘子鸡尾酒杯"
+      },
+      "officialName": "Orange Cocktail Glass",
+      "category": {
+        "id": "glass-homeware",
+        "en": "Fine Glassware",
+        "es": "Cristalería fina",
+        "ar": "الأواني الزجاجية الراقية",
+        "zh": "玻璃制品家居用具"
+      },
+      "subcategory": {
+        "id": "cocktail-glasses",
+        "en": "Cocktail Glasses",
+        "es": "Copas de cóctel",
+        "ar": "كؤوس الكوكتيل",
+        "zh": "鸡尾酒杯"
+      },
+      "spec": {
+        "en": "Rim 11.3cm H18cm Base 7.8cm / 106g",
+        "es": "Borde 11.3cm H18cm Base 7.8cm / 106g",
+        "ar": "الفوهة 11.3cm H18cm القاعدة 7.8cm / 106g",
+        "zh": "杯口11.3cm H18cm 底7.8cm / 106g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "GH-STE-007",
+      "name": {
+        "en": "Transparent Stem Cylinder Champagne Flute (Bow-knot)",
+        "es": "Copas de champán · GH-STE-007",
+        "ar": "كؤوس الشمبانيا · GH-STE-007",
+        "zh": "透明柱直筒香槟杯蝴蝶结款"
+      },
+      "officialName": "Transparent Stem Cylinder Champagne Flute (Bow-knot)",
+      "category": {
+        "id": "glass-homeware",
+        "en": "Fine Glassware",
+        "es": "Cristalería fina",
+        "ar": "الأواني الزجاجية الراقية",
+        "zh": "玻璃制品家居用具"
+      },
+      "subcategory": {
+        "id": "champagne-flutes",
+        "en": "Champagne Flutes",
+        "es": "Copas de champán",
+        "ar": "كؤوس الشمبانيا",
+        "zh": "香槟杯"
+      },
+      "spec": {
+        "en": "Rim 4.2cm H25.5cm Base 7.1cm / 119g",
+        "es": "Borde 4.2cm H25.5cm Base 7.1cm / 119g",
+        "ar": "الفوهة 4.2cm H25.5cm القاعدة 7.1cm / 119g",
+        "zh": "杯口4.2cm H25.5cm 底7.1cm / 119g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "GH-BWL-008",
+      "name": {
+        "en": "Lattice Ice Cream Bowl",
+        "es": "Cuencos para helado · GH-BWL-008",
+        "ar": "أوعية الآيس كريم · GH-BWL-008",
+        "zh": "菱格雪糕碗"
+      },
+      "officialName": "Lattice Ice Cream Bowl",
+      "category": {
+        "id": "glass-homeware",
+        "en": "Fine Glassware",
+        "es": "Cristalería fina",
+        "ar": "الأواني الزجاجية الراقية",
+        "zh": "玻璃制品家居用具"
+      },
+      "subcategory": {
+        "id": "ice-cream-bowls",
+        "en": "Ice Cream Bowls",
+        "es": "Cuencos para helado",
+        "ar": "أوعية الآيس كريم",
+        "zh": "雪糕碗"
+      },
+      "spec": {
+        "en": "Rim 10.5cm H9cm Base 7cm / 243g",
+        "es": "Borde 10.5cm H9cm Base 7cm / 243g",
+        "ar": "الفوهة 10.5cm H9cm القاعدة 7cm / 243g",
+        "zh": "杯口10.5cm H9cm 底7cm / 243g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-CUP-002",
+      "name": {
+        "en": "Liuli Juice Cup",
+        "es": "Vasos para zumo · LH-CUP-002",
+        "ar": "أكواب العصير · LH-CUP-002",
+        "zh": "琉璃果汁杯"
+      },
+      "officialName": "Liuli Juice Cup",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "juice-cups",
+        "en": "Juice Cups",
+        "es": "Vasos para zumo",
+        "ar": "أكواب العصير",
+        "zh": "果汁杯"
+      },
+      "spec": {
+        "en": "Rim 10cm H17cm Base 8.5cm / 537g",
+        "es": "Borde 10cm H17cm Base 8.5cm / 537g",
+        "ar": "الفوهة 10cm H17cm القاعدة 8.5cm / 537g",
+        "zh": "杯口10cm H17cm 底8.5cm / 537g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-CUP-003",
+      "name": {
+        "en": "Rhombic Roman Stem Liuli Juice Cup",
+        "es": "Vasos para zumo · LH-CUP-003",
+        "ar": "أكواب العصير · LH-CUP-003",
+        "zh": "菱形花纹罗马柱果汁杯"
+      },
+      "officialName": "Rhombic Roman Stem Liuli Juice Cup",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "juice-cups",
+        "en": "Juice Cups",
+        "es": "Vasos para zumo",
+        "ar": "أكواب العصير",
+        "zh": "果汁杯"
+      },
+      "spec": {
+        "en": "Rim 8.5cm H17cm Base 7.5cm / 352g",
+        "es": "Borde 8.5cm H17cm Base 7.5cm / 352g",
+        "ar": "الفوهة 8.5cm H17cm القاعدة 7.5cm / 352g",
+        "zh": "杯口8.5cm H17cm 底7.5cm / 352g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-CUP-004",
+      "name": {
+        "en": "Rhombic Lattice Printed Liuli Juice Cup",
+        "es": "Vasos para zumo · LH-CUP-004",
+        "ar": "أكواب العصير · LH-CUP-004",
+        "zh": "菱格花纹印花琉璃果汁杯"
+      },
+      "officialName": "Rhombic Lattice Printed Liuli Juice Cup",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "juice-cups",
+        "en": "Juice Cups",
+        "es": "Vasos para zumo",
+        "ar": "أكواب العصير",
+        "zh": "果汁杯"
+      },
+      "spec": {
+        "en": "Rim 5.5cm H17cm Base 5.5cm / 535g",
+        "es": "Borde 5.5cm H17cm Base 5.5cm / 535g",
+        "ar": "الفوهة 5.5cm H17cm القاعدة 5.5cm / 535g",
+        "zh": "杯口5.5cm H17cm 底5.5cm / 535g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-CUP-005",
+      "name": {
+        "en": "Blue Frosted Base Liuli Juice Cup",
+        "es": "Vasos para zumo · LH-CUP-005",
+        "ar": "أكواب العصير · LH-CUP-005",
+        "zh": "蓝色磨砂底琉璃果汁杯"
+      },
+      "officialName": "Blue Frosted Base Liuli Juice Cup",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "juice-cups",
+        "en": "Juice Cups",
+        "es": "Vasos para zumo",
+        "ar": "أكواب العصير",
+        "zh": "果汁杯"
+      },
+      "spec": {
+        "en": "Rim 5.5cm H17.1cm Base 5.2cm / 542g",
+        "es": "Borde 5.5cm H17.1cm Base 5.2cm / 542g",
+        "ar": "الفوهة 5.5cm H17.1cm القاعدة 5.2cm / 542g",
+        "zh": "杯口5.5cm H17.1cm 底5.2cm / 542g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-CUP-006",
+      "name": {
+        "en": "Purple Frosted Base Liuli Juice Cup",
+        "es": "Vasos para zumo · LH-CUP-006",
+        "ar": "أكواب العصير · LH-CUP-006",
+        "zh": "紫色磨砂底琉璃果汁杯"
+      },
+      "officialName": "Purple Frosted Base Liuli Juice Cup",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "juice-cups",
+        "en": "Juice Cups",
+        "es": "Vasos para zumo",
+        "ar": "أكواب العصير",
+        "zh": "果汁杯"
+      },
+      "spec": {
+        "en": "Rim 5.5cm H17.1cm Base 5.2cm / 542g",
+        "es": "Borde 5.5cm H17.1cm Base 5.2cm / 542g",
+        "ar": "الفوهة 5.5cm H17.1cm القاعدة 5.2cm / 542g",
+        "zh": "杯口5.5cm H17.1cm 底5.2cm / 542g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-CUP-007",
+      "name": {
+        "en": "Roman Stem Hand-painted Liuli Juice Cup",
+        "es": "Vasos para zumo · LH-CUP-007",
+        "ar": "أكواب العصير · LH-CUP-007",
+        "zh": "罗马柱状琉璃彩绘果汁杯"
+      },
+      "officialName": "Roman Stem Hand-painted Liuli Juice Cup",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "juice-cups",
+        "en": "Juice Cups",
+        "es": "Vasos para zumo",
+        "ar": "أكواب العصير",
+        "zh": "果汁杯"
+      },
+      "spec": {
+        "en": "Rim 8cm H17cm Base 7cm / 318g",
+        "es": "Borde 8cm H17cm Base 7cm / 318g",
+        "ar": "الفوهة 8cm H17cm القاعدة 7cm / 318g",
+        "zh": "杯口8cm H17cm 底7cm / 318g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-CUP-008",
+      "name": {
+        "en": "Engraved Vertical Stripe Liuli Juice Cup",
+        "es": "Vasos para zumo · LH-CUP-008",
+        "ar": "أكواب العصير · LH-CUP-008",
+        "zh": "琉璃刻花竖纹果汁杯"
+      },
+      "officialName": "Engraved Vertical Stripe Liuli Juice Cup",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "juice-cups",
+        "en": "Juice Cups",
+        "es": "Vasos para zumo",
+        "ar": "أكواب العصير",
+        "zh": "果汁杯"
+      },
+      "spec": {
+        "en": "Rim 7cm H14cm Base 6cm / 346g",
+        "es": "Borde 7cm H14cm Base 6cm / 346g",
+        "ar": "الفوهة 7cm H14cm القاعدة 6cm / 346g",
+        "zh": "杯口7cm H14cm 底6cm / 346g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-018",
+      "name": {
+        "en": "Golden Roman Stem High-waist Gold Rim Champagne Flute (Slender)",
+        "es": "Copas de champán · LH-STE-018",
+        "ar": "كؤوس الشمبانيا · LH-STE-018",
+        "zh": "金色罗马柱高腰金边香槟杯（细长款）"
+      },
+      "officialName": "Golden Roman Stem High-waist Gold Rim Champagne Flute (Slender)",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "champagne-flutes",
+        "en": "Champagne Flutes",
+        "es": "Copas de champán",
+        "ar": "كؤوس الشمبانيا",
+        "zh": "香槟杯"
+      },
+      "spec": {
+        "en": "Rim 6.5cm H24cm Base 7.2cm / 155g",
+        "es": "Borde 6.5cm H24cm Base 7.2cm / 155g",
+        "ar": "الفوهة 6.5cm H24cm القاعدة 7.2cm / 155g",
+        "zh": "杯口6.5cm H24cm 底7.2cm / 155g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-020",
+      "name": {
+        "en": "Transparent Stem Gold Rim Gold Pattern High-waist Champagne Flute (Slender)",
+        "es": "Copas de champán · LH-STE-020",
+        "ar": "كؤوس الشمبانيا · LH-STE-020",
+        "zh": "透明柱金边金色花纹高腰香槟杯（细长）"
+      },
+      "officialName": "Transparent Stem Gold Rim Gold Pattern High-waist Champagne Flute (Slender)",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "champagne-flutes",
+        "en": "Champagne Flutes",
+        "es": "Copas de champán",
+        "ar": "كؤوس الشمبانيا",
+        "zh": "香槟杯"
+      },
+      "spec": {
+        "en": "Rim 7.5cm H24cm Base 7.2cm / 155g",
+        "es": "Borde 7.5cm H24cm Base 7.2cm / 155g",
+        "ar": "الفوهة 7.5cm H24cm القاعدة 7.2cm / 155g",
+        "zh": "杯口7.5cm H24cm 底7.2cm / 155g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-022",
+      "name": {
+        "en": "Transparent Stem Cylinder Liuli Champagne Flute",
+        "es": "Copas de champán · LH-STE-022",
+        "ar": "كؤوس الشمبانيا · LH-STE-022",
+        "zh": "琉璃透明柱直筒香槟杯"
+      },
+      "officialName": "Transparent Stem Cylinder Liuli Champagne Flute",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "champagne-flutes",
+        "en": "Champagne Flutes",
+        "es": "Copas de champán",
+        "ar": "كؤوس الشمبانيا",
+        "zh": "香槟杯"
+      },
+      "spec": {
+        "en": "Rim 4.2cm H26.2cm Base 4.9cm / 148g",
+        "es": "Borde 4.2cm H26.2cm Base 4.9cm / 148g",
+        "ar": "الفوهة 4.2cm H26.2cm القاعدة 4.9cm / 148g",
+        "zh": "杯口4.2cm H26.2cm 底4.9cm / 148g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-023",
+      "name": {
+        "en": "Transparent Stem Gold Rim Cylinder Liuli Champagne Flute",
+        "es": "Copas de champán · LH-STE-023",
+        "ar": "كؤوس الشمبانيا · LH-STE-023",
+        "zh": "琉璃透明柱金边直筒香槟杯"
+      },
+      "officialName": "Transparent Stem Gold Rim Cylinder Liuli Champagne Flute",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "champagne-flutes",
+        "en": "Champagne Flutes",
+        "es": "Copas de champán",
+        "ar": "كؤوس الشمبانيا",
+        "zh": "香槟杯"
+      },
+      "spec": {
+        "en": "Rim 4.2cm H25.8cm Base 6.9cm / 73g",
+        "es": "Borde 4.2cm H25.8cm Base 6.9cm / 73g",
+        "ar": "الفوهة 4.2cm H25.8cm القاعدة 6.9cm / 73g",
+        "zh": "杯口4.2cm H25.8cm 底6.9cm / 73g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-024",
+      "name": {
+        "en": "Transparent Stem High-waist Premium Liuli Champagne Flute",
+        "es": "Copas de champán · LH-STE-024",
+        "ar": "كؤوس الشمبانيا · LH-STE-024",
+        "zh": "琉璃透明柱高腰高端香槟杯"
+      },
+      "officialName": "Transparent Stem High-waist Premium Liuli Champagne Flute",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "champagne-flutes",
+        "en": "Champagne Flutes",
+        "es": "Copas de champán",
+        "ar": "كؤوس الشمبانيا",
+        "zh": "香槟杯"
+      },
+      "spec": {
+        "en": "Rim 4.8cm H27.1cm Base 7.8cm / 79g",
+        "es": "Borde 4.8cm H27.1cm Base 7.8cm / 79g",
+        "ar": "الفوهة 4.8cm H27.1cm القاعدة 7.8cm / 79g",
+        "zh": "杯口4.8cm H27.1cm 底7.8cm / 79g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-025",
+      "name": {
+        "en": "Golden Stem High-waist Premium Liuli Champagne Flute",
+        "es": "Copas de champán · LH-STE-025",
+        "ar": "كؤوس الشمبانيا · LH-STE-025",
+        "zh": "琉璃金色柱高腰高端香槟杯"
+      },
+      "officialName": "Golden Stem High-waist Premium Liuli Champagne Flute",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "champagne-flutes",
+        "en": "Champagne Flutes",
+        "es": "Copas de champán",
+        "ar": "كؤوس الشمبانيا",
+        "zh": "香槟杯"
+      },
+      "spec": {
+        "en": "Rim 4.8cm H26.5cm Base 6.9cm / 99g",
+        "es": "Borde 4.8cm H26.5cm Base 6.9cm / 99g",
+        "ar": "الفوهة 4.8cm H26.5cm القاعدة 6.9cm / 99g",
+        "zh": "杯口4.8cm H26.5cm 底6.9cm / 99g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-BWL-013",
+      "name": {
+        "en": "Leaf Pattern Liuli Ice Cream Bowl",
+        "es": "Cuencos para helado · LH-BWL-013",
+        "ar": "أوعية الآيس كريم · LH-BWL-013",
+        "zh": "叶子花纹琉璃雪糕碗"
+      },
+      "officialName": "Leaf Pattern Liuli Ice Cream Bowl",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "ice-cream-bowls",
+        "en": "Ice Cream Bowls",
+        "es": "Cuencos para helado",
+        "ar": "أوعية الآيس كريم",
+        "zh": "雪糕碗"
+      },
+      "spec": {
+        "en": "Rim 12cm H6cm Base 5.5cm / 245g",
+        "es": "Borde 12cm H6cm Base 5.5cm / 245g",
+        "ar": "الفوهة 12cm H6cm القاعدة 5.5cm / 245g",
+        "zh": "杯口12cm H6cm 底5.5cm / 245g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-CUP-001",
+      "name": {
+        "en": "Hand-painted High-waist Liuli Coffee Cup",
+        "es": "Tazas y platos de café · LH-CUP-001",
+        "ar": "أكواب وصحون القهوة · LH-CUP-001",
+        "zh": "琉璃彩绘高腰咖啡杯"
+      },
+      "officialName": "Hand-painted High-waist Liuli Coffee Cup",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "coffee-cups",
+        "en": "Coffee Cups & Saucers",
+        "es": "Tazas y platos de café",
+        "ar": "أكواب وصحون القهوة",
+        "zh": "咖啡杯及杯碟"
+      },
+      "spec": {
+        "en": "Rim 17.4cm H8cm Base 4.9cm / 313g",
+        "es": "Borde 17.4cm H8cm Base 4.9cm / 313g",
+        "ar": "الفوهة 17.4cm H8cm القاعدة 4.9cm / 313g",
+        "zh": "杯口17.4cm H8cm 底4.9cm / 313g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-CUP-009",
+      "name": {
+        "en": "Peacock Coffee Cup (Two-tone)",
+        "es": "Tazas y platos de café · LH-CUP-009",
+        "ar": "أكواب وصحون القهوة · LH-CUP-009",
+        "zh": "孔雀咖啡杯双色"
+      },
+      "officialName": "Peacock Coffee Cup (Two-tone)",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "coffee-cups",
+        "en": "Coffee Cups & Saucers",
+        "es": "Tazas y platos de café",
+        "ar": "أكواب وصحون القهوة",
+        "zh": "咖啡杯及杯碟"
+      },
+      "spec": {
+        "en": "Rim 7cm H7cm 碟径12.5cm / 310g",
+        "es": "Borde 7cm H7cm 碟径12.5cm / 310g",
+        "ar": "الفوهة 7cm H7cm 碟径12.5cm / 310g",
+        "zh": "杯口7cm H7cm 碟径12.5cm / 310g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-CUP-010",
+      "name": {
+        "en": "Blue Frosted Bubble Pattern Coffee Cup & Saucer",
+        "es": "Tazas y platos de café · LH-CUP-010",
+        "ar": "أكواب وصحون القهوة · LH-CUP-010",
+        "zh": "蓝色磨砂气泡花纹咖啡杯碟"
+      },
+      "officialName": "Blue Frosted Bubble Pattern Coffee Cup & Saucer",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "coffee-cups",
+        "en": "Coffee Cups & Saucers",
+        "es": "Tazas y platos de café",
+        "ar": "أكواب وصحون القهوة",
+        "zh": "咖啡杯及杯碟"
+      },
+      "spec": {
+        "en": "Rim 9.5cm H6.5cm 盘径15cm / 390g",
+        "es": "Borde 9.5cm H6.5cm 盘径15cm / 390g",
+        "ar": "الفوهة 9.5cm H6.5cm 盘径15cm / 390g",
+        "zh": "杯口9.5cm H6.5cm 盘径15cm / 390g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-BWL-011",
+      "name": {
+        "en": "Water Ripple Liuli Dining Bowl",
+        "es": "Cuencos y platos · LH-BWL-011",
+        "ar": "أوعية وأطباق الطعام · LH-BWL-011",
+        "zh": "琉璃水波纹餐食碗"
+      },
+      "officialName": "Water Ripple Liuli Dining Bowl",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "dining-bowls",
+        "en": "Dining Bowls & Dishes",
+        "es": "Cuencos y platos",
+        "ar": "أوعية وأطباق الطعام",
+        "zh": "餐食碗及碗碟"
+      },
+      "spec": {
+        "en": "Large / medium / small sizes 560g/410g/240g",
+        "es": "Tamaños grande / mediano / pequeño 560g/410g/240g",
+        "ar": "مقاسات كبير / متوسط / صغير 560g/410g/240g",
+        "zh": "大/中/小三规格 560g/410g/240g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-BWL-012",
+      "name": {
+        "en": "Liuli Patterned Frosted Bowl & Dish Set",
+        "es": "Cuencos y platos · LH-BWL-012",
+        "ar": "أوعية وأطباق الطعام · LH-BWL-012",
+        "zh": "琉璃花纹磨砂质感碗碟"
+      },
+      "officialName": "Liuli Patterned Frosted Bowl & Dish Set",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "dining-bowls",
+        "en": "Dining Bowls & Dishes",
+        "es": "Cuencos y platos",
+        "ar": "أوعية وأطباق الطعام",
+        "zh": "餐食碗及碗碟"
+      },
+      "spec": {
+        "en": "Rim 11cm H6cm 盘径14.5cm / 390g",
+        "es": "Borde 11cm H6cm 盘径14.5cm / 390g",
+        "ar": "الفوهة 11cm H6cm 盘径14.5cm / 390g",
+        "zh": "杯口11cm H6cm 盘径14.5cm / 390g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-BWL-014",
+      "name": {
+        "en": "Hand-painted Colored Liuli Candy Bowl",
+        "es": "Cuencos para dulces · LH-BWL-014",
+        "ar": "أوعية الحلوى · LH-BWL-014",
+        "zh": "彩色彩绘琉璃糖果碗"
+      },
+      "officialName": "Hand-painted Colored Liuli Candy Bowl",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "candy-bowls",
+        "en": "Candy Bowls",
+        "es": "Cuencos para dulces",
+        "ar": "أوعية الحلوى",
+        "zh": "糖果碗"
+      },
+      "spec": {
+        "en": "碗口10cm H6cm 碟径15.5cm / 540g",
+        "es": "碗口10cm H6cm 碟径15.5cm / 540g",
+        "ar": "碗口10cm H6cm 碟径15.5cm / 540g",
+        "zh": "碗口10cm H6cm 碟径15.5cm / 540g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-JAR-015",
+      "name": {
+        "en": "Hand-painted Liuli Candy Jar",
+        "es": "Tarros para dulces · LH-JAR-015",
+        "ar": "مرطبانات الحلوى · LH-JAR-015",
+        "zh": "琉璃彩绘糖果罐"
+      },
+      "officialName": "Hand-painted Liuli Candy Jar",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "candy-jars",
+        "en": "Candy Jars",
+        "es": "Tarros para dulces",
+        "ar": "مرطبانات الحلوى",
+        "zh": "糖果罐"
+      },
+      "spec": {
+        "en": "大：径15cm H17.5cm；小：径11.9cm H14cm",
+        "es": "大：径15cm H17.5cm；小：径11.9cm H14cm",
+        "ar": "大：径15cm H17.5cm；小：径11.9cm H14cm",
+        "zh": "大：径15cm H17.5cm；小：径11.9cm H14cm"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-016",
+      "name": {
+        "en": "Red High Heel High-waist Goblet",
+        "es": "Copas de vino · LH-STE-016",
+        "ar": "كؤوس النبيذ · LH-STE-016",
+        "zh": "红高跟高腰高脚杯"
+      },
+      "officialName": "Red High Heel High-waist Goblet",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "wine-glasses",
+        "en": "Wine Glasses",
+        "es": "Copas de vino",
+        "ar": "كؤوس النبيذ",
+        "zh": "葡萄酒杯"
+      },
+      "spec": {
+        "en": "Rim 7cm H25cm Base 8.8cm / 164g",
+        "es": "Borde 7cm H25cm Base 8.8cm / 164g",
+        "ar": "الفوهة 7cm H25cm القاعدة 8.8cm / 164g",
+        "zh": "杯口7cm H25cm 底8.8cm / 164g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-017",
+      "name": {
+        "en": "Golden Roman Stem Gold Rim Wide-mouth Glass",
+        "es": "Copas de vino · LH-STE-017",
+        "ar": "كؤوس النبيذ · LH-STE-017",
+        "zh": "金色罗马柱金边开口杯"
+      },
+      "officialName": "Golden Roman Stem Gold Rim Wide-mouth Glass",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "wine-glasses",
+        "en": "Wine Glasses",
+        "es": "Copas de vino",
+        "ar": "كؤوس النبيذ",
+        "zh": "葡萄酒杯"
+      },
+      "spec": {
+        "en": "Rim 9.5cm H21cm Base 8cm / 223g",
+        "es": "Borde 9.5cm H21cm Base 8cm / 223g",
+        "ar": "الفوهة 9.5cm H21cm القاعدة 8cm / 223g",
+        "zh": "杯口9.5cm H21cm 底8cm / 223g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-019",
+      "name": {
+        "en": "Transparent Stem Gold Rim Gold Pattern Wide-mouth Glass",
+        "es": "Copas de vino · LH-STE-019",
+        "ar": "كؤوس النبيذ · LH-STE-019",
+        "zh": "透明柱金边金色花纹开口酒杯"
+      },
+      "officialName": "Transparent Stem Gold Rim Gold Pattern Wide-mouth Glass",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "wine-glasses",
+        "en": "Wine Glasses",
+        "es": "Copas de vino",
+        "ar": "كؤوس النبيذ",
+        "zh": "葡萄酒杯"
+      },
+      "spec": {
+        "en": "Rim 9.4cm H21cm Base 7.2cm / 159g",
+        "es": "Borde 9.4cm H21cm Base 7.2cm / 159g",
+        "ar": "الفوهة 9.4cm H21cm القاعدة 7.2cm / 159g",
+        "zh": "杯口9.4cm H21cm 底7.2cm / 159g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-021",
+      "name": {
+        "en": "Transparent Liuli White Wine Glass (White Queen)",
+        "es": "Copas de vino · LH-STE-021",
+        "ar": "كؤوس النبيذ · LH-STE-021",
+        "zh": "透明琉璃白葡萄酒杯（白皇后）"
+      },
+      "officialName": "Transparent Liuli White Wine Glass (White Queen)",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "wine-glasses",
+        "en": "Wine Glasses",
+        "es": "Copas de vino",
+        "ar": "كؤوس النبيذ",
+        "zh": "葡萄酒杯"
+      },
+      "spec": {
+        "en": "Rim 7cm H15cm Base 7cm / 174g",
+        "es": "Borde 7cm H15cm Base 7cm / 174g",
+        "ar": "الفوهة 7cm H15cm القاعدة 7cm / 174g",
+        "zh": "杯口7cm H15cm 底7cm / 174g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-026",
+      "name": {
+        "en": "Liuli Whiskey Glass (Innocent)",
+        "es": "Vasos de whisky · LH-STE-026",
+        "ar": "كؤوس الويسكي · LH-STE-026",
+        "zh": "琉璃威士忌酒杯（天真）"
+      },
+      "officialName": "Liuli Whiskey Glass (Innocent)",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "whiskey-glasses",
+        "en": "Whiskey Glasses",
+        "es": "Vasos de whisky",
+        "ar": "كؤوس الويسكي",
+        "zh": "威士忌杯"
+      },
+      "spec": {
+        "en": "Rim 6cm H11.5cm Base 6cm / 135g",
+        "es": "Borde 6cm H11.5cm Base 6cm / 135g",
+        "ar": "الفوهة 6cm H11.5cm القاعدة 6cm / 135g",
+        "zh": "杯口6cm H11.5cm 底6cm / 135g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-027",
+      "name": {
+        "en": "Liuli Whiskey Glass (Chubby)",
+        "es": "Vasos de whisky · LH-STE-027",
+        "ar": "كؤوس الويسكي · LH-STE-027",
+        "zh": "琉璃威士忌酒杯（胖墩墩）"
+      },
+      "officialName": "Liuli Whiskey Glass (Chubby)",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "whiskey-glasses",
+        "en": "Whiskey Glasses",
+        "es": "Vasos de whisky",
+        "ar": "كؤوس الويسكي",
+        "zh": "威士忌杯"
+      },
+      "spec": {
+        "en": "Rim 8.5cm H11.5cm Base 6cm / 227g",
+        "es": "Borde 8.5cm H11.5cm Base 6cm / 227g",
+        "ar": "الفوهة 8.5cm H11.5cm القاعدة 6cm / 227g",
+        "zh": "杯口8.5cm H11.5cm 底6cm / 227g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-STE-028",
+      "name": {
+        "en": "Liuli Whiskey High-waist Shot Glasses",
+        "es": "Vasos de whisky · LH-STE-028",
+        "ar": "كؤوس الويسكي · LH-STE-028",
+        "zh": "琉璃威士忌高腰小段杯"
+      },
+      "officialName": "Liuli Whiskey High-waist Shot Glasses",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "whiskey-glasses",
+        "en": "Whiskey Glasses",
+        "es": "Vasos de whisky",
+        "ar": "كؤوس الويسكي",
+        "zh": "威士忌杯"
+      },
+      "spec": {
+        "en": "Rim 5cm H8.5cm Base 3.5cm（Total 六个）/ 540g",
+        "es": "Borde 5cm H8.5cm Base 3.5cm（Total 六个）/ 540g",
+        "ar": "الفوهة 5cm H8.5cm القاعدة 3.5cm（الإجمالي 六个）/ 540g",
+        "zh": "杯口5cm H8.5cm 底3.5cm（共六个）/ 540g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LH-SET-029",
+      "name": {
+        "en": "Heritage Antique Jade Tea Set",
+        "es": "Juegos de té · LH-SET-029",
+        "ar": "أطقم الشاي · LH-SET-029",
+        "zh": "非遗古玉茶套装"
+      },
+      "officialName": "Heritage Antique Jade Tea Set",
+      "category": {
+        "id": "liuli-tableware",
+        "en": "Liuli Tableware",
+        "es": "Cristalería Liuli",
+        "ar": "أواني لِيُولي المنزلية",
+        "zh": "琉璃制家居用品"
+      },
+      "subcategory": {
+        "id": "tea-sets",
+        "en": "Tea Sets",
+        "es": "Juegos de té",
+        "ar": "أطقم الشاي",
+        "zh": "茶具套装"
+      },
+      "spec": {
+        "en": "公道杯8*8.9cm；茶杯6*4.2cm；Total 1604g",
+        "es": "公道杯8*8.9cm；茶杯6*4.2cm；Total 1604g",
+        "ar": "公道杯8*8.9cm；茶杯6*4.2cm；الإجمالي 1604g",
+        "zh": "公道杯8*8.9cm；茶杯6*4.2cm；共1604g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LA-ART-001",
+      "name": {
+        "en": "Premium Roman Stem Liuli Fruit Plate",
+        "es": "Fuentes para fruta · LA-ART-001",
+        "ar": "أطباق الفاكهة · LA-ART-001",
+        "zh": "琉璃制品罗马柱高端水果盘"
+      },
+      "officialName": "Premium Roman Stem Liuli Fruit Plate",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "fruit-plates",
+        "en": "Fruit Plates",
+        "es": "Fuentes para fruta",
+        "ar": "أطباق الفاكهة",
+        "zh": "水果盘"
+      },
+      "spec": {
+        "en": "Rim 27.5cm H13.4cm Base 13cm / 1550g",
+        "es": "Borde 27.5cm H13.4cm Base 13cm / 1550g",
+        "ar": "الفوهة 27.5cm H13.4cm القاعدة 13cm / 1550g",
+        "zh": "杯口27.5cm H13.4cm 底13cm / 1550g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-ART-002",
+      "name": {
+        "en": "Liuli Decanter",
+        "es": "Decantadores · LA-ART-002",
+        "ar": "قوارير التهوية · LA-ART-002",
+        "zh": "琉璃醒酒器"
+      },
+      "officialName": "Liuli Decanter",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "decanters",
+        "en": "Decanters",
+        "es": "Decantadores",
+        "ar": "قوارير التهوية",
+        "zh": "醒酒器"
+      },
+      "spec": {
+        "en": "径20cm H26cm / 1322g",
+        "es": "径20cm H26cm / 1322g",
+        "ar": "径20cm H26cm / 1322g",
+        "zh": "径20cm H26cm / 1322g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-ART-003",
+      "name": {
+        "en": "Human Face Liuli Wine Bottle",
+        "es": "Botellas decorativas · LA-ART-003",
+        "ar": "زجاجات للزينة · LA-ART-003",
+        "zh": "琉璃制品人脸酒瓶"
+      },
+      "officialName": "Human Face Liuli Wine Bottle",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "decorative-bottles",
+        "en": "Decorative Bottles",
+        "es": "Botellas decorativas",
+        "ar": "زجاجات للزينة",
+        "zh": "装饰酒瓶"
+      },
+      "spec": {
+        "en": "瓶口2.5cm Base 8.5cm H29cm / 880g",
+        "es": "瓶口2.5cm Base 8.5cm H29cm / 880g",
+        "ar": "瓶口2.5cm القاعدة 8.5cm H29cm / 880g",
+        "zh": "瓶口2.5cm 底8.5cm H29cm / 880g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-ART-004",
+      "name": {
+        "en": "Liuli Cigar Ashtray",
+        "es": "Ceniceros para puros · LA-ART-004",
+        "ar": "منافض السيجار · LA-ART-004",
+        "zh": "琉璃雪茄缸"
+      },
+      "officialName": "Liuli Cigar Ashtray",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "cigar-ashtrays",
+        "en": "Cigar Ashtrays",
+        "es": "Ceniceros para puros",
+        "ar": "منافض السيجار",
+        "zh": "雪茄缸"
+      },
+      "spec": {
+        "en": "L20cm W6cm H3.5cm / 560g",
+        "es": "L20cm W6cm H3.5cm / 560g",
+        "ar": "L20cm W6cm H3.5cm / 560g",
+        "zh": "L20cm W6cm H3.5cm / 560g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-005",
+      "name": {
+        "en": "Ethereal Iris Radiance",
+        "es": "Arte floral de gran formato · LA-FLR-005",
+        "ar": "فن زهري كبير · LA-FLR-005",
+        "zh": "幽兰静绽"
+      },
+      "officialName": "Ethereal Iris Radiance",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-006",
+      "name": {
+        "en": "Purple Lotus Dreamscape",
+        "es": "Arte floral de gran formato · LA-FLR-006",
+        "ar": "فن زهري كبير · LA-FLR-006",
+        "zh": "紫莲入梦"
+      },
+      "officialName": "Purple Lotus Dreamscape",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-007",
+      "name": {
+        "en": "Azure Lotus Serenity",
+        "es": "Arte floral de gran formato · LA-FLR-007",
+        "ar": "فن زهري كبير · LA-FLR-007",
+        "zh": "碧荷清韵"
+      },
+      "officialName": "Azure Lotus Serenity",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-008",
+      "name": {
+        "en": "Majesty Orchid Blossom",
+        "es": "Arte floral de gran formato · LA-FLR-008",
+        "ar": "فن زهري كبير · LA-FLR-008",
+        "zh": "紫气东来"
+      },
+      "officialName": "Majesty Orchid Blossom",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-009",
+      "name": {
+        "en": "Shell-Bound Lotus Bloom",
+        "es": "Arte floral de gran formato · LA-FLR-009",
+        "ar": "فن زهري كبير · LA-FLR-009",
+        "zh": "海贝灵莲"
+      },
+      "officialName": "Shell-Bound Lotus Bloom",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-010",
+      "name": {
+        "en": "Eternal Fortune Pomegranate",
+        "es": "Arte floral de gran formato · LA-FLR-010",
+        "ar": "فن زهري كبير · LA-FLR-010",
+        "zh": "万福石榴图"
+      },
+      "officialName": "Eternal Fortune Pomegranate",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-011",
+      "name": {
+        "en": "Jade-Green Lotus Purity",
+        "es": "Arte floral de gran formato · LA-FLR-011",
+        "ar": "فن زهري كبير · LA-FLR-011",
+        "zh": "翠玉清荷"
+      },
+      "officialName": "Jade-Green Lotus Purity",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-012",
+      "name": {
+        "en": "Golden Sunrise Sunflowers",
+        "es": "Arte floral de gran formato · LA-FLR-012",
+        "ar": "فن زهري كبير · LA-FLR-012",
+        "zh": "朝阳金辉"
+      },
+      "officialName": "Golden Sunrise Sunflowers",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-015",
+      "name": {
+        "en": "Golden Autumn Chrysan",
+        "es": "Arte floral de gran formato · LA-FLR-015",
+        "ar": "فن زهري كبير · LA-FLR-015",
+        "zh": "秋菊傲霜"
+      },
+      "officialName": "Golden Autumn Chrysan",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-016",
+      "name": {
+        "en": "Fragrant Lily Symphony",
+        "es": "Arte floral de gran formato · LA-FLR-016",
+        "ar": "فن زهري كبير · LA-FLR-016",
+        "zh": "百合凝香"
+      },
+      "officialName": "Fragrant Lily Symphony",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-020",
+      "name": {
+        "en": "Eternal Rose Splendor",
+        "es": "Arte floral de gran formato · LA-FLR-020",
+        "ar": "فن زهري كبير · LA-FLR-020",
+        "zh": "瑰丽永恒"
+      },
+      "officialName": "Eternal Rose Splendor",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-021",
+      "name": {
+        "en": "Blue Queen Peony",
+        "es": "Arte floral de gran formato · LA-FLR-021",
+        "ar": "فن زهري كبير · LA-FLR-021",
+        "zh": "花中女皇"
+      },
+      "officialName": "Blue Queen Peony",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-022",
+      "name": {
+        "en": "Gourd of Abundance",
+        "es": "Arte floral de gran formato · LA-FLR-022",
+        "ar": "فن زهري كبير · LA-FLR-022",
+        "zh": "福禄繁花"
+      },
+      "officialName": "Gourd of Abundance",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-023",
+      "name": {
+        "en": "Fairy Orchid & Butterfly",
+        "es": "Arte floral de gran formato · LA-FLR-023",
+        "ar": "فن زهري كبير · LA-FLR-023",
+        "zh": "仙踪蝶影"
+      },
+      "officialName": "Fairy Orchid & Butterfly",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-024",
+      "name": {
+        "en": "Magnolia Reflection",
+        "es": "Arte floral de gran formato · LA-FLR-024",
+        "ar": "فن زهري كبير · LA-FLR-024",
+        "zh": "玉兰映雪"
+      },
+      "officialName": "Magnolia Reflection",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-025",
+      "name": {
+        "en": "Radiant Rose Garland",
+        "es": "Arte floral de gran formato · LA-FLR-025",
+        "ar": "فن زهري كبير · LA-FLR-025",
+        "zh": "锦绣华章"
+      },
+      "officialName": "Radiant Rose Garland",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-029",
+      "name": {
+        "en": "Daffodil Water Fairy",
+        "es": "Arte floral de gran formato · LA-FLR-029",
+        "ar": "فن زهري كبير · LA-FLR-029",
+        "zh": "凌波仙子"
+      },
+      "officialName": "Daffodil Water Fairy",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-030",
+      "name": {
+        "en": "Sacred Golden Lotus",
+        "es": "Arte floral de gran formato · LA-FLR-030",
+        "ar": "فن زهري كبير · LA-FLR-030",
+        "zh": "金池圣境"
+      },
+      "officialName": "Sacred Golden Lotus",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-031",
+      "name": {
+        "en": "Abundant Harvest Grapes",
+        "es": "Arte floral de gran formato · LA-FLR-031",
+        "ar": "فن زهري كبير · LA-FLR-031",
+        "zh": "硕果累累"
+      },
+      "officialName": "Abundant Harvest Grapes",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "large-floral-art",
+        "en": "Large Floral Art",
+        "es": "Arte floral de gran formato",
+        "ar": "فن زهري كبير",
+        "zh": "大型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Large",
+        "es": "作品规格等级：Grande",
+        "ar": "作品规格等级：كبير",
+        "zh": "作品规格等级：Large"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-013",
+      "name": {
+        "en": "Dawn's Budding Lotus",
+        "es": "Arte floral de pequeño formato · LA-FLR-013",
+        "ar": "فن زهري صغير · LA-FLR-013",
+        "zh": "晨曦初蕊"
+      },
+      "officialName": "Dawn's Budding Lotus",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "small-floral-art",
+        "en": "Small Floral Art",
+        "es": "Arte floral de pequeño formato",
+        "ar": "فن زهري صغير",
+        "zh": "小型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Small",
+        "es": "作品规格等级：Pequeño",
+        "ar": "作品规格等级：صغير",
+        "zh": "作品规格等级：Small"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-014",
+      "name": {
+        "en": "Wavy-Heart Pink Lotus",
+        "es": "Arte floral de pequeño formato · LA-FLR-014",
+        "ar": "فن زهري صغير · LA-FLR-014",
+        "zh": "波心粉荷"
+      },
+      "officialName": "Wavy-Heart Pink Lotus",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "small-floral-art",
+        "en": "Small Floral Art",
+        "es": "Arte floral de pequeño formato",
+        "ar": "فن زهري صغير",
+        "zh": "小型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Small",
+        "es": "作品规格等级：Pequeño",
+        "ar": "作品规格等级：صغير",
+        "zh": "作品规格等级：Small"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-017",
+      "name": {
+        "en": "Pure Ice White Lotus",
+        "es": "Arte floral de pequeño formato · LA-FLR-017",
+        "ar": "فن زهري صغير · LA-FLR-017",
+        "zh": "冰清玉洁"
+      },
+      "officialName": "Pure Ice White Lotus",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "small-floral-art",
+        "en": "Small Floral Art",
+        "es": "Arte floral de pequeño formato",
+        "ar": "فن زهري صغير",
+        "zh": "小型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Small",
+        "es": "作品规格等级：Pequeño",
+        "ar": "作品规格等级：صغير",
+        "zh": "作品规格等级：Small"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-018",
+      "name": {
+        "en": "Pink Ripple Miniature",
+        "es": "Arte floral de pequeño formato · LA-FLR-018",
+        "ar": "فن زهري صغير · LA-FLR-018",
+        "zh": "粉黛清波"
+      },
+      "officialName": "Pink Ripple Miniature",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "small-floral-art",
+        "en": "Small Floral Art",
+        "es": "Arte floral de pequeño formato",
+        "ar": "فن زهري صغير",
+        "zh": "小型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Small",
+        "es": "作品规格等级：Pequeño",
+        "ar": "作品规格等级：صغير",
+        "zh": "作品规格等级：Small"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-019",
+      "name": {
+        "en": "Crimson Shadow in Ink",
+        "es": "Arte floral de pequeño formato · LA-FLR-019",
+        "ar": "فن زهري صغير · LA-FLR-019",
+        "zh": "墨池红影"
+      },
+      "officialName": "Crimson Shadow in Ink",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "small-floral-art",
+        "en": "Small Floral Art",
+        "es": "Arte floral de pequeño formato",
+        "ar": "فن زهري صغير",
+        "zh": "小型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Small",
+        "es": "作品规格等级：Pequeño",
+        "ar": "作品规格等级：صغير",
+        "zh": "作品规格等级：Small"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-026",
+      "name": {
+        "en": "Solitary Lotus Elegance",
+        "es": "Arte floral de pequeño formato · LA-FLR-026",
+        "ar": "فن زهري صغير · LA-FLR-026",
+        "zh": "孤芳自赏"
+      },
+      "officialName": "Solitary Lotus Elegance",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "small-floral-art",
+        "en": "Small Floral Art",
+        "es": "Arte floral de pequeño formato",
+        "ar": "فن زهري صغير",
+        "zh": "小型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Small",
+        "es": "作品规格等级：Pequeño",
+        "ar": "作品规格等级：صغير",
+        "zh": "作品规格等级：Small"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-027",
+      "name": {
+        "en": "Purple Mystic Root",
+        "es": "Arte floral de pequeño formato · LA-FLR-027",
+        "ar": "فن زهري صغير · LA-FLR-027",
+        "zh": "幻紫灵根"
+      },
+      "officialName": "Purple Mystic Root",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "small-floral-art",
+        "en": "Small Floral Art",
+        "es": "Arte floral de pequeño formato",
+        "ar": "فن زهري صغير",
+        "zh": "小型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Small",
+        "es": "作品规格等级：Pequeño",
+        "ar": "作品规格等级：صغير",
+        "zh": "作品规格等级：Small"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-028",
+      "name": {
+        "en": "Morning Dew Lotus",
+        "es": "Arte floral de pequeño formato · LA-FLR-028",
+        "ar": "فن زهري صغير · LA-FLR-028",
+        "zh": "晨露仙荷"
+      },
+      "officialName": "Morning Dew Lotus",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "small-floral-art",
+        "en": "Small Floral Art",
+        "es": "Arte floral de pequeño formato",
+        "ar": "فن زهري صغير",
+        "zh": "小型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Small",
+        "es": "作品规格等级：Pequeño",
+        "ar": "作品规格等级：صغير",
+        "zh": "作品规格等级：Small"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LA-FLR-032",
+      "name": {
+        "en": "Dreamy Iridescent Lotus",
+        "es": "Arte floral de pequeño formato · LA-FLR-032",
+        "ar": "فن زهري صغير · LA-FLR-032",
+        "zh": "幻梦彩荷"
+      },
+      "officialName": "Dreamy Iridescent Lotus",
+      "category": {
+        "id": "collectible-art",
+        "en": "Collectible Liuli Art",
+        "es": "Arte Liuli de colección",
+        "ar": "فن لِيُولي للمقتنيات",
+        "zh": "琉璃制品珍藏大型家居工艺"
+      },
+      "subcategory": {
+        "id": "small-floral-art",
+        "en": "Small Floral Art",
+        "es": "Arte floral de pequeño formato",
+        "ar": "فن زهري صغير",
+        "zh": "小型琉璃花艺收藏"
+      },
+      "spec": {
+        "en": "作品规格等级：Small",
+        "es": "作品规格等级：Pequeño",
+        "ar": "作品规格等级：صغير",
+        "zh": "作品规格等级：Small"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective wooden frame with cotton cushioning",
+          "es": "Marco protector de madera con acolchado de algodón",
+          "ar": "إطار خشبي واقٍ مع حشوة قطنية",
+          "zh": "木质防护框加棉质缓冲"
+        },
+        "gift": null
+      }
+    },
+    {
+      "spu": "LJ-BRC-001",
+      "name": {
+        "en": "Traditional Liuli Purple Carp Bracelet",
+        "es": "Cuentas y pulseras · LJ-BRC-001",
+        "ar": "خرز وأساور · LJ-BRC-001",
+        "zh": "传统工艺琉璃紫鲤手珠"
+      },
+      "officialName": "Traditional Liuli Purple Carp Bracelet",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "bracelets",
+        "en": "Beads & Bracelets",
+        "es": "Cuentas y pulseras",
+        "ar": "خرز وأساور",
+        "zh": "手珠及手链"
+      },
+      "spec": {
+        "en": "珠径12mm 默认16珠 / 40g",
+        "es": "珠径12mm 默认16珠 / 40g",
+        "ar": "珠径12mm 默认16珠 / 40g",
+        "zh": "珠径12mm 默认16珠 / 40g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC-002",
+      "name": {
+        "en": "Traditional Liuli Peacock Blue Phoenix Eye Bracelet",
+        "es": "Cuentas y pulseras · LJ-BRC-002",
+        "ar": "خرز وأساور · LJ-BRC-002",
+        "zh": "传统工艺琉璃孔雀蓝色手工大凤眼手珠"
+      },
+      "officialName": "Traditional Liuli Peacock Blue Phoenix Eye Bracelet",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "bracelets",
+        "en": "Beads & Bracelets",
+        "es": "Cuentas y pulseras",
+        "ar": "خرز وأساور",
+        "zh": "手珠及手链"
+      },
+      "spec": {
+        "en": "珠径20mm 默认12珠 / 100g",
+        "es": "珠径20mm 默认12珠 / 100g",
+        "ar": "珠径20mm 默认12珠 / 100g",
+        "zh": "珠径20mm 默认12珠 / 100g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC-003",
+      "name": {
+        "en": "Traditional Liuli Imperial Yellow Phoenix Bracelet",
+        "es": "Cuentas y pulseras · LJ-BRC-003",
+        "ar": "خرز وأساور · LJ-BRC-003",
+        "zh": "传统工艺琉璃鸡油黄凤凰琉璃手珠"
+      },
+      "officialName": "Traditional Liuli Imperial Yellow Phoenix Bracelet",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "bracelets",
+        "en": "Beads & Bracelets",
+        "es": "Cuentas y pulseras",
+        "ar": "خرز وأساور",
+        "zh": "手珠及手链"
+      },
+      "spec": {
+        "en": "珠径18mm 默认12珠 / 80g",
+        "es": "珠径18mm 默认12珠 / 80g",
+        "ar": "珠径18mm 默认12珠 / 80g",
+        "zh": "珠径18mm 默认12珠 / 80g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC-004",
+      "name": {
+        "en": "Traditional Liuli New Chinese Style Full Honey Red Skin Bracelet",
+        "es": "Cuentas y pulseras · LJ-BRC-004",
+        "ar": "خرز وأساور · LJ-BRC-004",
+        "zh": "传统工艺琉璃仿新中式满蜜红皮琉璃手珠"
+      },
+      "officialName": "Traditional Liuli New Chinese Style Full Honey Red Skin Bracelet",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "bracelets",
+        "en": "Beads & Bracelets",
+        "es": "Cuentas y pulseras",
+        "ar": "خرز وأساور",
+        "zh": "手珠及手链"
+      },
+      "spec": {
+        "en": "珠径10mm 默认20珠 / 24g",
+        "es": "珠径10mm 默认20珠 / 24g",
+        "ar": "珠径10mm 默认20珠 / 24g",
+        "zh": "珠径10mm 默认20珠 / 24g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC-005",
+      "name": {
+        "en": "Traditional Liuli Faux Citrine Bracelet",
+        "es": "Cuentas y pulseras · LJ-BRC-005",
+        "ar": "خرز وأساور · LJ-BRC-005",
+        "zh": "传统工艺琉璃仿黄水晶琉璃手珠"
+      },
+      "officialName": "Traditional Liuli Faux Citrine Bracelet",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "bracelets",
+        "en": "Beads & Bracelets",
+        "es": "Cuentas y pulseras",
+        "ar": "خرز وأساور",
+        "zh": "手珠及手链"
+      },
+      "spec": {
+        "en": "珠径18mm 默认16珠 / 100g",
+        "es": "珠径18mm 默认16珠 / 100g",
+        "ar": "珠径18mm 默认16珠 / 100g",
+        "zh": "珠径18mm 默认16珠 / 100g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC-006",
+      "name": {
+        "en": "Traditional Liuli Full-fleshed Southern Red Agate Style Bracelet",
+        "es": "Cuentas y pulseras · LJ-BRC-006",
+        "ar": "خرز وأساور · LJ-BRC-006",
+        "zh": "传统工艺琉璃满肉南红手珠"
+      },
+      "officialName": "Traditional Liuli Full-fleshed Southern Red Agate Style Bracelet",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "bracelets",
+        "en": "Beads & Bracelets",
+        "es": "Cuentas y pulseras",
+        "ar": "خرز وأساور",
+        "zh": "手珠及手链"
+      },
+      "spec": {
+        "en": "珠径18mm 默认12珠 / 50g",
+        "es": "珠径18mm 默认12珠 / 50g",
+        "ar": "珠径18mm 默认12珠 / 50g",
+        "zh": "珠径18mm 默认12珠 / 50g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC-007",
+      "name": {
+        "en": "Traditional Liuli Faux Turquoise Handmade Beads",
+        "es": "Cuentas y pulseras · LJ-BRC-007",
+        "ar": "خرز وأساور · LJ-BRC-007",
+        "zh": "传统工艺琉璃仿绿松石手工珠子"
+      },
+      "officialName": "Traditional Liuli Faux Turquoise Handmade Beads",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "bracelets",
+        "en": "Beads & Bracelets",
+        "es": "Cuentas y pulseras",
+        "ar": "خرز وأساور",
+        "zh": "手珠及手链"
+      },
+      "spec": {
+        "en": "珠径15mm 默认14珠 / 80g",
+        "es": "珠径15mm 默认14珠 / 80g",
+        "ar": "珠径15mm 默认14珠 / 80g",
+        "zh": "珠径15mm 默认14珠 / 80g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC008",
+      "name": {
+        "en": "Traditional Liuli Emerald Grape Beads",
+        "es": "Cuentas y pulseras · LJ-BRC008",
+        "ar": "خرز وأساور · LJ-BRC008",
+        "zh": "传统工艺琉璃翠葡萄珠子"
+      },
+      "officialName": "Traditional Liuli Emerald Grape Beads",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "bracelets",
+        "en": "Beads & Bracelets",
+        "es": "Cuentas y pulseras",
+        "ar": "خرز وأساور",
+        "zh": "手珠及手链"
+      },
+      "spec": {
+        "en": "珠径16mm 默认9珠 / 60g",
+        "es": "珠径16mm 默认9珠 / 60g",
+        "ar": "珠径16mm 默认9珠 / 60g",
+        "zh": "珠径16mm 默认9珠 / 60g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC009",
+      "name": {
+        "en": "Traditional Liuli Faux Bloodstone Handmade Beads",
+        "es": "Cuentas y pulseras · LJ-BRC009",
+        "ar": "خرز وأساور · LJ-BRC009",
+        "zh": "传统工艺琉璃仿鸡血石手工珠子"
+      },
+      "officialName": "Traditional Liuli Faux Bloodstone Handmade Beads",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "bracelets",
+        "en": "Beads & Bracelets",
+        "es": "Cuentas y pulseras",
+        "ar": "خرز وأساور",
+        "zh": "手珠及手链"
+      },
+      "spec": {
+        "en": "珠径18mm 默认13珠 / 990g",
+        "es": "珠径18mm 默认13珠 / 990g",
+        "ar": "珠径18mm 默认13珠 / 990g",
+        "zh": "珠径18mm 默认13珠 / 990g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC010",
+      "name": {
+        "en": "Traditional Antique Liuli Phoenix Tail Upright Flower Bracelet",
+        "es": "Cuentas y pulseras · LJ-BRC010",
+        "ar": "خرز وأساور · LJ-BRC010",
+        "zh": "传统古法琉璃凤尾立花手珠（新品）"
+      },
+      "officialName": "Traditional Antique Liuli Phoenix Tail Upright Flower Bracelet",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "bracelets",
+        "en": "Beads & Bracelets",
+        "es": "Cuentas y pulseras",
+        "ar": "خرز وأساور",
+        "zh": "手珠及手链"
+      },
+      "spec": {
+        "en": "珠径12mm 默认16珠 / 40g",
+        "es": "珠径12mm 默认16珠 / 40g",
+        "ar": "珠径12mm 默认16珠 / 40g",
+        "zh": "珠径12mm 默认16珠 / 40g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC012",
+      "name": {
+        "en": "Blue Jellyfish Liuli Necklace",
+        "es": "Collares · LJ-BRC012",
+        "ar": "قلائد · LJ-BRC012",
+        "zh": "蓝水母琉璃项链"
+      },
+      "officialName": "Blue Jellyfish Liuli Necklace",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "necklaces",
+        "en": "Necklaces",
+        "es": "Collares",
+        "ar": "قلائد",
+        "zh": "项链"
+      },
+      "spec": {
+        "en": "周L 3cm / 70g",
+        "es": "周L. 3cm / 70g",
+        "ar": "周الطول 3cm / 70g",
+        "zh": "周长3cm / 70g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC013",
+      "name": {
+        "en": "Red Jellyfish Liuli Necklace",
+        "es": "Collares · LJ-BRC013",
+        "ar": "قلائد · LJ-BRC013",
+        "zh": "红水母琉璃项链"
+      },
+      "officialName": "Red Jellyfish Liuli Necklace",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "necklaces",
+        "en": "Necklaces",
+        "es": "Collares",
+        "ar": "قلائد",
+        "zh": "项链"
+      },
+      "spec": {
+        "en": "周L 3cm / 70g",
+        "es": "周L. 3cm / 70g",
+        "ar": "周الطول 3cm / 70g",
+        "zh": "周长3cm / 70g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC014",
+      "name": {
+        "en": "Orange Jellyfish Liuli Necklace",
+        "es": "Collares · LJ-BRC014",
+        "ar": "قلائد · LJ-BRC014",
+        "zh": "橙水母琉璃项链"
+      },
+      "officialName": "Orange Jellyfish Liuli Necklace",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "necklaces",
+        "en": "Necklaces",
+        "es": "Collares",
+        "ar": "قلائد",
+        "zh": "项链"
+      },
+      "spec": {
+        "en": "周L 3cm / 70g",
+        "es": "周L. 3cm / 70g",
+        "ar": "周الطول 3cm / 70g",
+        "zh": "周长3cm / 70g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC015",
+      "name": {
+        "en": "Yellow Jellyfish Liuli Necklace",
+        "es": "Collares · LJ-BRC015",
+        "ar": "قلائد · LJ-BRC015",
+        "zh": "黄水母琉璃项链"
+      },
+      "officialName": "Yellow Jellyfish Liuli Necklace",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "necklaces",
+        "en": "Necklaces",
+        "es": "Collares",
+        "ar": "قلائد",
+        "zh": "项链"
+      },
+      "spec": {
+        "en": "周L 3cm / 70g",
+        "es": "周L. 3cm / 70g",
+        "ar": "周الطول 3cm / 70g",
+        "zh": "周长3cm / 70g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC016",
+      "name": {
+        "en": "Gold Foil Black Swirl Pattern Liuli Ring",
+        "es": "Anillos · LJ-BRC016",
+        "ar": "خواتم · LJ-BRC016",
+        "zh": "金箔黑色旋转花纹琉璃戒指"
+      },
+      "officialName": "Gold Foil Black Swirl Pattern Liuli Ring",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "rings",
+        "en": "Rings",
+        "es": "Anillos",
+        "ar": "خواتم",
+        "zh": "戒指"
+      },
+      "spec": {
+        "en": "内径2cm / 110g",
+        "es": "内径2cm / 110g",
+        "ar": "内径2cm / 110g",
+        "zh": "内径2cm / 110g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC017",
+      "name": {
+        "en": "Gold Powder Fine Shimmer Black & Gold Liuli Ring",
+        "es": "Anillos · LJ-BRC017",
+        "ar": "خواتم · LJ-BRC017",
+        "zh": "金粉细闪黑金琉璃戒指"
+      },
+      "officialName": "Gold Powder Fine Shimmer Black & Gold Liuli Ring",
+      "category": {
+        "id": "liuli-jewelry",
+        "en": "Liuli Jewelry",
+        "es": "Joyería Liuli",
+        "ar": "مجوهرات لِيُولي",
+        "zh": "琉璃制品首饰"
+      },
+      "subcategory": {
+        "id": "rings",
+        "en": "Rings",
+        "es": "Anillos",
+        "ar": "خواتم",
+        "zh": "戒指"
+      },
+      "spec": {
+        "en": "内径2cm / 110g",
+        "es": "内径2cm / 110g",
+        "ar": "内径2cm / 110g",
+        "zh": "内径2cm / 110g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Vacuum plastic protective box",
+          "es": "Caja protectora de plástico al vacío",
+          "ar": "علبة بلاستيكية واقية مفرغة",
+          "zh": "真空塑料防护盒"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC018",
+      "name": {
+        "en": "Handmade Liuli Bulbous Yellow Vase",
+        "es": "Jarrones decorativos · LJ-BRC018",
+        "ar": "مزهريات للزينة · LJ-BRC018",
+        "zh": "手工工艺琉璃胖肚琉璃黄色花瓶"
+      },
+      "officialName": "Handmade Liuli Bulbous Yellow Vase",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "decorative-vases",
+        "en": "Decorative Vases",
+        "es": "Jarrones decorativos",
+        "ar": "مزهريات للزينة",
+        "zh": "装饰花瓶"
+      },
+      "spec": {
+        "en": "开口8cm Base 8cm H8cm / 3600g",
+        "es": "开口8cm Base 8cm H8cm / 3600g",
+        "ar": "开口8cm القاعدة 8cm H8cm / 3600g",
+        "zh": "开口8cm 底8cm H8cm / 3600g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC019",
+      "name": {
+        "en": "Handmade Liuli Red Morning Glory Vase",
+        "es": "Jarrones decorativos · LJ-BRC019",
+        "ar": "مزهريات للزينة · LJ-BRC019",
+        "zh": "手工工艺琉璃红色牵牛花琉璃花瓶"
+      },
+      "officialName": "Handmade Liuli Red Morning Glory Vase",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "decorative-vases",
+        "en": "Decorative Vases",
+        "es": "Jarrones decorativos",
+        "ar": "مزهريات للزينة",
+        "zh": "装饰花瓶"
+      },
+      "spec": {
+        "en": "开口13cm Base 8cm H43cm / 4800g",
+        "es": "开口13cm Base 8cm H43cm / 4800g",
+        "ar": "开口13cm القاعدة 8cm H43cm / 4800g",
+        "zh": "开口13cm 底8cm H43cm / 4800g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC020",
+      "name": {
+        "en": "Handmade Liuli Red & Yellow Pulled Pattern Wide-mouth Vase",
+        "es": "Jarrones decorativos · LJ-BRC020",
+        "ar": "مزهريات للزينة · LJ-BRC020",
+        "zh": "手工工艺琉璃红黄色大拉花开口琉璃花瓶"
+      },
+      "officialName": "Handmade Liuli Red & Yellow Pulled Pattern Wide-mouth Vase",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "decorative-vases",
+        "en": "Decorative Vases",
+        "es": "Jarrones decorativos",
+        "ar": "مزهريات للزينة",
+        "zh": "装饰花瓶"
+      },
+      "spec": {
+        "en": "开口16cm Base 7cm H36cm / 4500g",
+        "es": "开口16cm Base 7cm H36cm / 4500g",
+        "ar": "开口16cm القاعدة 7cm H36cm / 4500g",
+        "zh": "开口16cm 底7cm H36cm / 4500g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC021",
+      "name": {
+        "en": "Handmade Liuli Petal-mouth Red & Green Vintage Vase",
+        "es": "Jarrones decorativos · LJ-BRC021",
+        "ar": "مزهريات للزينة · LJ-BRC021",
+        "zh": "手工工艺琉璃花瓣开口红绿色复古琉璃花瓶"
+      },
+      "officialName": "Handmade Liuli Petal-mouth Red & Green Vintage Vase",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "decorative-vases",
+        "en": "Decorative Vases",
+        "es": "Jarrones decorativos",
+        "ar": "مزهريات للزينة",
+        "zh": "装饰花瓶"
+      },
+      "spec": {
+        "en": "开口13cm Base 7.5cm H35cm / 3500g",
+        "es": "开口13cm Base 7.5cm H35cm / 3500g",
+        "ar": "开口13cm القاعدة 7.5cm H35cm / 3500g",
+        "zh": "开口13cm 底7.5cm H35cm / 3500g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC022",
+      "name": {
+        "en": "Handmade Liuli High-waist Small-mouth Vase",
+        "es": "Jarrones decorativos · LJ-BRC022",
+        "ar": "مزهريات للزينة · LJ-BRC022",
+        "zh": "手工工艺琉璃高腰小开口琉璃花瓶"
+      },
+      "officialName": "Handmade Liuli High-waist Small-mouth Vase",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "decorative-vases",
+        "en": "Decorative Vases",
+        "es": "Jarrones decorativos",
+        "ar": "مزهريات للزينة",
+        "zh": "装饰花瓶"
+      },
+      "spec": {
+        "en": "开口11cm Base 7cm H16cm / 3400g",
+        "es": "开口11cm Base 7cm H16cm / 3400g",
+        "ar": "开口11cm القاعدة 7cm H16cm / 3400g",
+        "zh": "开口11cm 底7cm H16cm / 3400g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC023",
+      "name": {
+        "en": "Handmade Liuli Yellow Large Petal-mouth Vase",
+        "es": "Jarrones decorativos · LJ-BRC023",
+        "ar": "مزهريات للزينة · LJ-BRC023",
+        "zh": "手工工艺琉璃黄色大花瓣开口琉璃花瓶"
+      },
+      "officialName": "Handmade Liuli Yellow Large Petal-mouth Vase",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "decorative-vases",
+        "en": "Decorative Vases",
+        "es": "Jarrones decorativos",
+        "ar": "مزهريات للزينة",
+        "zh": "装饰花瓶"
+      },
+      "spec": {
+        "en": "开口22cm Base 7cm H36cm / 3200g",
+        "es": "开口22cm Base 7cm H36cm / 3200g",
+        "ar": "开口22cm القاعدة 7cm H36cm / 3200g",
+        "zh": "开口22cm 底7cm H36cm / 3200g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC024",
+      "name": {
+        "en": "Handmade Liuli Pink Morning Glory Vase",
+        "es": "Jarrones decorativos · LJ-BRC024",
+        "ar": "مزهريات للزينة · LJ-BRC024",
+        "zh": "手工工艺琉璃牵牛花粉色琉璃花瓶"
+      },
+      "officialName": "Handmade Liuli Pink Morning Glory Vase",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "decorative-vases",
+        "en": "Decorative Vases",
+        "es": "Jarrones decorativos",
+        "ar": "مزهريات للزينة",
+        "zh": "装饰花瓶"
+      },
+      "spec": {
+        "en": "开口13cm Base 8cm H40cm / 3900g",
+        "es": "开口13cm Base 8cm H40cm / 3900g",
+        "ar": "开口13cm القاعدة 8cm H40cm / 3900g",
+        "zh": "开口13cm 底8cm H40cm / 3900g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC025",
+      "name": {
+        "en": "Handmade Liuli Red & Yellow Painted Face Vase",
+        "es": "Jarrones decorativos · LJ-BRC025",
+        "ar": "مزهريات للزينة · LJ-BRC025",
+        "zh": "手工工艺琉璃红黄彩绘人脸琉璃花瓶"
+      },
+      "officialName": "Handmade Liuli Red & Yellow Painted Face Vase",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "decorative-vases",
+        "en": "Decorative Vases",
+        "es": "Jarrones decorativos",
+        "ar": "مزهريات للزينة",
+        "zh": "装饰花瓶"
+      },
+      "spec": {
+        "en": "开口17cm Base 7cm H26.5cm / 2500g",
+        "es": "开口17cm Base 7cm H26.5cm / 2500g",
+        "ar": "开口17cm القاعدة 7cm H26.5cm / 2500g",
+        "zh": "开口17cm 底7cm H26.5cm / 2500g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC026",
+      "name": {
+        "en": "Handmade Liuli Blue & Green Painted Fisherman Vase",
+        "es": "Jarrones decorativos · LJ-BRC026",
+        "ar": "مزهريات للزينة · LJ-BRC026",
+        "zh": "手工工艺琉璃蓝绿彩绘渔人琉璃花瓶"
+      },
+      "officialName": "Handmade Liuli Blue & Green Painted Fisherman Vase",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "decorative-vases",
+        "en": "Decorative Vases",
+        "es": "Jarrones decorativos",
+        "ar": "مزهريات للزينة",
+        "zh": "装饰花瓶"
+      },
+      "spec": {
+        "en": "开口18cm Base 7cm H25.5cm / 2800g",
+        "es": "开口18cm Base 7cm H25.5cm / 2800g",
+        "ar": "开口18cm القاعدة 7cm H25.5cm / 2800g",
+        "zh": "开口18cm 底7cm H25.5cm / 2800g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC027",
+      "name": {
+        "en": "Handmade Liuli Blue Printed Cylinder Vase",
+        "es": "Jarrones decorativos · LJ-BRC027",
+        "ar": "مزهريات للزينة · LJ-BRC027",
+        "zh": "手工工艺琉璃蓝色印花直筒琉璃花瓶"
+      },
+      "officialName": "Handmade Liuli Blue Printed Cylinder Vase",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "decorative-vases",
+        "en": "Decorative Vases",
+        "es": "Jarrones decorativos",
+        "ar": "مزهريات للزينة",
+        "zh": "装饰花瓶"
+      },
+      "spec": {
+        "en": "开口14cm Base 9cm H38cm / 3500g",
+        "es": "开口14cm Base 9cm H38cm / 3500g",
+        "ar": "开口14cm القاعدة 9cm H38cm / 3500g",
+        "zh": "开口14cm 底9cm H38cm / 3500g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC028",
+      "name": {
+        "en": "Handmade Liuli Imperial Yellow Vintage Vase",
+        "es": "Jarrones decorativos · LJ-BRC028",
+        "ar": "مزهريات للزينة · LJ-BRC028",
+        "zh": "手工工艺琉璃鸡油黄复古琉璃花瓶"
+      },
+      "officialName": "Handmade Liuli Imperial Yellow Vintage Vase",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "decorative-vases",
+        "en": "Decorative Vases",
+        "es": "Jarrones decorativos",
+        "ar": "مزهريات للزينة",
+        "zh": "装饰花瓶"
+      },
+      "spec": {
+        "en": "开口9.5cm Base 8cm H40cm / 5100g",
+        "es": "开口9.5cm Base 8cm H40cm / 5100g",
+        "ar": "开口9.5cm القاعدة 8cm H40cm / 5100g",
+        "zh": "开口9.5cm 底8cm H40cm / 5100g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC029",
+      "name": {
+        "en": "Handmade Liuli Fired Yellow Premium Vase",
+        "es": "Jarrones decorativos · LJ-BRC029",
+        "ar": "مزهريات للزينة · LJ-BRC029",
+        "zh": "手工工艺琉璃琉璃烧制黄色高端花瓶"
+      },
+      "officialName": "Handmade Liuli Fired Yellow Premium Vase",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "decorative-vases",
+        "en": "Decorative Vases",
+        "es": "Jarrones decorativos",
+        "ar": "مزهريات للزينة",
+        "zh": "装饰花瓶"
+      },
+      "spec": {
+        "en": "开口10.5cm Base 9.5cm H28cm / 4900g",
+        "es": "开口10.5cm Base 9.5cm H28cm / 4900g",
+        "ar": "开口10.5cm القاعدة 9.5cm H28cm / 4900g",
+        "zh": "开口10.5cm 底9.5cm H28cm / 4900g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC031",
+      "name": {
+        "en": "Handmade Liuli Rooster Ornament",
+        "es": "Figuras de animales · LJ-BRC031",
+        "ar": "مجسمات حيوانات · LJ-BRC031",
+        "zh": "手工工艺琉璃大公鸡摆件"
+      },
+      "officialName": "Handmade Liuli Rooster Ornament",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "animal-figurines",
+        "en": "Animal Figurines",
+        "es": "Figuras de animales",
+        "ar": "مجسمات حيوانات",
+        "zh": "动物摆件"
+      },
+      "spec": {
+        "en": "H25cm / 1670g",
+        "es": "H25cm / 1670g",
+        "ar": "H25cm / 1670g",
+        "zh": "H25cm / 1670g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC037",
+      "name": {
+        "en": "Handmade Liuli Horse Stepping on Auspicious Clouds (Yellow)",
+        "es": "Figuras de animales · LJ-BRC037",
+        "ar": "مجسمات حيوانات · LJ-BRC037",
+        "zh": "手工工艺琉璃马踏祥云黄色摆件"
+      },
+      "officialName": "Handmade Liuli Horse Stepping on Auspicious Clouds (Yellow)",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "animal-figurines",
+        "en": "Animal Figurines",
+        "es": "Figuras de animales",
+        "ar": "مجسمات حيوانات",
+        "zh": "动物摆件"
+      },
+      "spec": {
+        "en": "L15cm H19cm / 2000g",
+        "es": "L15cm H19cm / 2000g",
+        "ar": "L15cm H19cm / 2000g",
+        "zh": "L15cm H19cm / 2000g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC038",
+      "name": {
+        "en": "Handmade Liuli Horse Stepping on Auspicious Clouds (Red)",
+        "es": "Figuras de animales · LJ-BRC038",
+        "ar": "مجسمات حيوانات · LJ-BRC038",
+        "zh": "手工工艺琉璃马踏祥云红色摆件"
+      },
+      "officialName": "Handmade Liuli Horse Stepping on Auspicious Clouds (Red)",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "animal-figurines",
+        "en": "Animal Figurines",
+        "es": "Figuras de animales",
+        "ar": "مجسمات حيوانات",
+        "zh": "动物摆件"
+      },
+      "spec": {
+        "en": "L15cm H19cm / 2000g",
+        "es": "L15cm H19cm / 2000g",
+        "ar": "L15cm H19cm / 2000g",
+        "zh": "L15cm H19cm / 2000g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC039",
+      "name": {
+        "en": "Handmade Liuli Horse Stepping on Auspicious Clouds (Blue)",
+        "es": "Figuras de animales · LJ-BRC039",
+        "ar": "مجسمات حيوانات · LJ-BRC039",
+        "zh": "手工工艺琉璃马踏祥云蓝色摆件"
+      },
+      "officialName": "Handmade Liuli Horse Stepping on Auspicious Clouds (Blue)",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "animal-figurines",
+        "en": "Animal Figurines",
+        "es": "Figuras de animales",
+        "ar": "مجسمات حيوانات",
+        "zh": "动物摆件"
+      },
+      "spec": {
+        "en": "L15cm H19cm / 2000g",
+        "es": "L15cm H19cm / 2000g",
+        "ar": "L15cm H19cm / 2000g",
+        "zh": "L15cm H19cm / 2000g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC032",
+      "name": {
+        "en": "Handmade Liuli Red Lips Green Person Ornament",
+        "es": "Arte figurativo y abstracto · LJ-BRC032",
+        "ar": "فن تجريدي ومجسمات بشرية · LJ-BRC032",
+        "zh": "手工工艺琉璃红唇绿人摆件"
+      },
+      "officialName": "Handmade Liuli Red Lips Green Person Ornament",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "figurative-art",
+        "en": "Figurative & Abstract Art",
+        "es": "Arte figurativo y abstracto",
+        "ar": "فن تجريدي ومجسمات بشرية",
+        "zh": "人物及抽象艺术摆件"
+      },
+      "spec": {
+        "en": "开口16.5cm Base 6cm H27cm / 2400g",
+        "es": "开口16.5cm Base 6cm H27cm / 2400g",
+        "ar": "开口16.5cm القاعدة 6cm H27cm / 2400g",
+        "zh": "开口16.5cm 底6cm H27cm / 2400g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC033",
+      "name": {
+        "en": "Handmade Liuli Red Flame Ornament",
+        "es": "Arte figurativo y abstracto · LJ-BRC033",
+        "ar": "فن تجريدي ومجسمات بشرية · LJ-BRC033",
+        "zh": "手工工艺琉璃红色火焰琉璃摆件"
+      },
+      "officialName": "Handmade Liuli Red Flame Ornament",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "figurative-art",
+        "en": "Figurative & Abstract Art",
+        "es": "Arte figurativo y abstracto",
+        "ar": "فن تجريدي ومجسمات بشرية",
+        "zh": "人物及抽象艺术摆件"
+      },
+      "spec": {
+        "en": "H40cm / 2180g",
+        "es": "H40cm / 2180g",
+        "ar": "H40cm / 2180g",
+        "zh": "H40cm / 2180g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC036",
+      "name": {
+        "en": "Handmade Liuli Green Demon Ornament",
+        "es": "Arte figurativo y abstracto · LJ-BRC036",
+        "ar": "فن تجريدي ومجسمات بشرية · LJ-BRC036",
+        "zh": "手工工艺琉璃绿魔人摆件"
+      },
+      "officialName": "Handmade Liuli Green Demon Ornament",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "figurative-art",
+        "en": "Figurative & Abstract Art",
+        "es": "Arte figurativo y abstracto",
+        "ar": "فن تجريدي ومجسمات بشرية",
+        "zh": "人物及抽象艺术摆件"
+      },
+      "spec": {
+        "en": "H43cm / 3000g",
+        "es": "H43cm / 3000g",
+        "ar": "H43cm / 3000g",
+        "zh": "H43cm / 3000g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC042",
+      "name": {
+        "en": "Handmade Liuli White Jellyfish Art Ornament",
+        "es": "Arte figurativo y abstracto · LJ-BRC042",
+        "ar": "فن تجريدي ومجسمات بشرية · LJ-BRC042",
+        "zh": "手工工艺琉璃白色水母艺术摆件（新品）"
+      },
+      "officialName": "Handmade Liuli White Jellyfish Art Ornament",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "figurative-art",
+        "en": "Figurative & Abstract Art",
+        "es": "Arte figurativo y abstracto",
+        "ar": "فن تجريدي ومجسمات بشرية",
+        "zh": "人物及抽象艺术摆件"
+      },
+      "spec": {
+        "en": "H17.5cm 顶径9cm Base 径5.5cm / 2000g",
+        "es": "H17.5cm 顶径9cm Base 径5.5cm / 2000g",
+        "ar": "H17.5cm 顶径9cm القاعدة 径5.5cm / 2000g",
+        "zh": "H17.5cm 顶径9cm 底径5.5cm / 2000g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC043",
+      "name": {
+        "en": "Handmade Liuli Golden Jellyfish Art Ornament",
+        "es": "Arte figurativo y abstracto · LJ-BRC043",
+        "ar": "فن تجريدي ومجسمات بشرية · LJ-BRC043",
+        "zh": "手工工艺琉璃金色水母艺术摆件（新品）"
+      },
+      "officialName": "Handmade Liuli Golden Jellyfish Art Ornament",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "figurative-art",
+        "en": "Figurative & Abstract Art",
+        "es": "Arte figurativo y abstracto",
+        "ar": "فن تجريدي ومجسمات بشرية",
+        "zh": "人物及抽象艺术摆件"
+      },
+      "spec": {
+        "en": "H13.5cm 顶径7cm Base 径4.5cm / 1500g",
+        "es": "H13.5cm 顶径7cm Base 径4.5cm / 1500g",
+        "ar": "H13.5cm 顶径7cm القاعدة 径4.5cm / 1500g",
+        "zh": "H13.5cm 顶径7cm 底径4.5cm / 1500g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC030",
+      "name": {
+        "en": "Handmade Liuli Polaris Office Ornament",
+        "es": "Trofeos y piezas conmemorativas · LJ-BRC030",
+        "ar": "جوائز وقطع تذكارية · LJ-BRC030",
+        "zh": "手工工艺琉璃北极星办公室摆件"
+      },
+      "officialName": "Handmade Liuli Polaris Office Ornament",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "trophies",
+        "en": "Trophies & Commemoratives",
+        "es": "Trofeos y piezas conmemorativas",
+        "ar": "جوائز وقطع تذكارية",
+        "zh": "奖杯及纪念摆件"
+      },
+      "spec": {
+        "en": "H34cm / 4600g",
+        "es": "H34cm / 4600g",
+        "ar": "H34cm / 4600g",
+        "zh": "H34cm / 4600g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC034",
+      "name": {
+        "en": "Handmade Liuli Blue Wings Victory Spiral Trophy",
+        "es": "Trofeos y piezas conmemorativas · LJ-BRC034",
+        "ar": "جوائز وقطع تذكارية · LJ-BRC034",
+        "zh": "手工工艺琉璃蓝色羽翼胜利螺旋奖杯"
+      },
+      "officialName": "Handmade Liuli Blue Wings Victory Spiral Trophy",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "trophies",
+        "en": "Trophies & Commemoratives",
+        "es": "Trofeos y piezas conmemorativas",
+        "ar": "جوائز وقطع تذكارية",
+        "zh": "奖杯及纪念摆件"
+      },
+      "spec": {
+        "en": "H38cm / 2400g",
+        "es": "H38cm / 2400g",
+        "ar": "H38cm / 2400g",
+        "zh": "H38cm / 2400g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC035",
+      "name": {
+        "en": "Handmade Liuli Starry Sky Victory Spiral Trophy",
+        "es": "Trofeos y piezas conmemorativas · LJ-BRC035",
+        "ar": "جوائز وقطع تذكارية · LJ-BRC035",
+        "zh": "手工工艺琉璃琉璃蓝色星空胜利螺旋奖杯"
+      },
+      "officialName": "Handmade Liuli Starry Sky Victory Spiral Trophy",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "trophies",
+        "en": "Trophies & Commemoratives",
+        "es": "Trofeos y piezas conmemorativas",
+        "ar": "جوائز وقطع تذكارية",
+        "zh": "奖杯及纪念摆件"
+      },
+      "spec": {
+        "en": "H33cm / 1700g",
+        "es": "H33cm / 1700g",
+        "ar": "H33cm / 1700g",
+        "zh": "H33cm / 1700g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC040",
+      "name": {
+        "en": "Handmade Liuli Starry Christmas Tree (8 pcs) Ornament",
+        "es": "Adornos festivos · LJ-BRC040",
+        "ar": "زينة المناسبات · LJ-BRC040",
+        "zh": "手工工艺琉璃星星圣诞树摆件中"
+      },
+      "officialName": "Handmade Liuli Starry Christmas Tree (8 pcs) Ornament",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "festive-ornaments",
+        "en": "Festive Ornaments",
+        "es": "Adornos festivos",
+        "ar": "زينة المناسبات",
+        "zh": "节庆摆件"
+      },
+      "spec": {
+        "en": "H9cm / 30g",
+        "es": "H9cm / 30g",
+        "ar": "H9cm / 30g",
+        "zh": "H9cm / 30g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    },
+    {
+      "spu": "LJ-BRC041",
+      "name": {
+        "en": "Handmade Liuli Starry Christmas Tree (9 pcs) Ornament",
+        "es": "Adornos festivos · LJ-BRC041",
+        "ar": "زينة المناسبات · LJ-BRC041",
+        "zh": "手工工艺琉璃星星圣诞树摆件大"
+      },
+      "officialName": "Handmade Liuli Starry Christmas Tree (9 pcs) Ornament",
+      "category": {
+        "id": "decor-objects",
+        "en": "Decorative Objects",
+        "es": "Objetos decorativos",
+        "ar": "مجسمات للديكور",
+        "zh": "琉璃制品摆件"
+      },
+      "subcategory": {
+        "id": "festive-ornaments",
+        "en": "Festive Ornaments",
+        "es": "Adornos festivos",
+        "ar": "زينة المناسبات",
+        "zh": "节庆摆件"
+      },
+      "spec": {
+        "en": "H10cm / 40g",
+        "es": "H10cm / 40g",
+        "ar": "H10cm / 40g",
+        "zh": "H10cm / 40g"
+      },
+      "packaging": {
+        "standard": {
+          "en": "Protective carton with foam cushioning",
+          "es": "Caja protectora con acolchado de espuma",
+          "ar": "كرتون واقٍ مع حشوة رغوية",
+          "zh": "纸盒加泡沫防护"
+        },
+        "gift": {
+          "en": "Presentation gift box",
+          "es": "Caja de presentación",
+          "ar": "علبة هدايا فاخرة",
+          "zh": "展示礼盒包装"
+        }
+      }
+    }
+  ]
+}

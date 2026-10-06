@@ -1,0 +1,1590 @@
+{
+  "en": {
+    "meta": {
+      "title": "ZowieWare · Liuli & Fine Glassware",
+      "catalogTitle": "ZowieWare · Trade Catalog"
+    },
+    "common": {
+      "brandLine": "Liuli Art · Fine Glassware",
+      "home": "Home",
+      "catalog": "Catalog",
+      "craft": "Craft",
+      "company": "Company",
+      "contact": "Contact",
+      "language": "Language",
+      "openCatalog": "Explore all 111 products",
+      "viewCatalog": "View trade catalog",
+      "download": "Download",
+      "inquire": "Inquire",
+      "emailUs": "Email us",
+      "whatsapp": "WhatsApp",
+      "alibaba": "Alibaba store",
+      "saveContact": "Save contact",
+      "tradeRibbonTitle": "Trade terms · EXW / FOB / CIF",
+      "tradeRibbonNote": "Samples, packing and delivery are quoted for your selected products and destination.",
+      "offlineReady": "Designed to work directly from this USB drive.",
+      "backTop": "Back to top",
+      "menu": "Menu",
+      "close": "Close",
+      "openFile": "Open report",
+      "trust": "Buyer confidence"
+    },
+    "hero": {
+      "eyebrow": "AUTUMN 2026 · GUANGZHOU, CHINA",
+      "title": "Color, cast in glass.",
+      "body": "Discover Chinese Liuli art and fine glassware with a distinctive point of view. A collection for considered gifts, memorable interiors and retail assortments—with sourcing and customization coordinated from Guangzhou.",
+      "primary": "Explore the collection",
+      "secondary": "Meet your sourcing partner",
+      "badge": "Autumn 2026 Collection",
+      "proof": "Liuli art · Fine glassware · Design & sourcing coordination",
+      "caption": "Liuli floral art · Collection reference",
+      "offline": "Browse offline. Connect when you are ready."
+    },
+    "collections": {
+      "eyebrow": "THE COLLECTION",
+      "title": "Find your expression in glass.",
+      "body": "Explore five product families, from everyday glassware to sculptural Liuli. Use the catalog to shortlist products for your market; availability and exact specifications are confirmed by inquiry.",
+      "products": "products"
+    },
+    "value": {
+      "eyebrow": "THE ZOWIEWARE DIFFERENCE",
+      "title": "Character in the collection. Clarity in the conversation.",
+      "body": "Chinese glass artistry, practical product choices and a direct point of contact for your project.",
+      "items": [
+        [
+          "01",
+          "A distinctive material language",
+          "Color, translucency and sculptural forms connect gifts, tableware and decorative art."
+        ],
+        [
+          "02",
+          "Craft you can explore",
+          "See the supplied lost-wax process images for selected Liuli pieces, from wax work to finishing."
+        ],
+        [
+          "03",
+          "A coordinated sourcing partner",
+          "Discuss design, product selection, quality requirements and export packing with one Guangzhou trading team."
+        ]
+      ]
+    },
+    "process": {
+      "eyebrow": "THE CRAFT",
+      "title": "From wax form to finished Liuli.",
+      "body": "Explore a lost-wax casting workflow documented in the company materials. These eleven stages illustrate selected Liuli production; methods differ across the wider glassware collection.",
+      "steps": [
+        [
+          "Design sketch",
+          "Form, proportion and decorative intent are defined."
+        ],
+        [
+          "Wax pouring",
+          "Wax enters the prepared mold to establish the piece."
+        ],
+        [
+          "Wax refinement",
+          "The wax form is released, cleaned and hand-refined."
+        ],
+        [
+          "Steam dewaxing",
+          "Wax is removed to create the casting cavity."
+        ],
+        [
+          "Color filling",
+          "Selected glass colors are arranged for the intended effect."
+        ],
+        [
+          "High-temperature firing",
+          "Heat transforms the composition into a unified Liuli form."
+        ],
+        [
+          "Controlled annealing",
+          "Gradual cooling stabilizes the material."
+        ],
+        [
+          "Mold removal",
+          "The fired piece is carefully released."
+        ],
+        [
+          "Wet grinding",
+          "Surfaces and edges are corrected with water-assisted grinding."
+        ],
+        [
+          "Polishing & cleaning",
+          "Clarity, touch and presentation are refined."
+        ],
+        [
+          "Inspection & packaging",
+          "The finished piece is checked and packed for its journey."
+        ]
+      ],
+      "summary": "Explore the 11 illustrated stages",
+      "note": "Company-supplied process imagery. Confirm the production method and finish for your selected item."
+    },
+    "oem": {
+      "eyebrow": "OEM / ODM",
+      "title": "Your brief. A considered route to a sample.",
+      "body": "Share your intended use, market and design idea. We can discuss product selection, color, logo and packaging options, then agree the scope of sample development.",
+      "points": [
+        "Start with a collection reference or your own concept",
+        "Confirm the exact product, finish and intended use",
+        "Agree sample costs, timing and approval criteria",
+        "Review packaging and order requirements before production"
+      ],
+      "pdf": "Open the buyer guide",
+      "workflow": "Customization workflow"
+    },
+    "quality": {
+      "eyebrow": "EVIDENCE YOU CAN REVIEW",
+      "title": "See the sample. Read the report.",
+      "body": "Two supplied test reports are included on this USB. Each identifies its submitted sample, test items, date and applicant, so your review can start with a specific document.",
+      "docs": [
+        [
+          "Glass cup · test report",
+          "TQT0023B533E · 06 Jul 2026\nSample: Liuqi Glass Cup"
+        ],
+        [
+          "Candy jar · test report",
+          "TQT0023B619E · 09 Jul 2026\nSample: Coloured glaze Candy Jar"
+        ]
+      ],
+      "matrixTitle": "What the files cover",
+      "matrixIntro": "Applicant: Guangzhou Zowie Ware Trading Co., Ltd. Issued by Shenzhen Tianqi Testing Technology Service Co., Ltd. The reports record a Pass for their listed tests.",
+      "matrix": {
+        "headers": [
+          "Report",
+          "Submitted sample",
+          "Listed test scope",
+          "Before ordering",
+          "File"
+        ],
+        "rows": [
+          [
+            "TQT0023B533E",
+            "Liuqi Glass Cup",
+            "Food-contact tests listed in the report",
+            "Confirm exact SPU, material, decoration and intended use"
+          ],
+          [
+            "TQT0023B619E",
+            "Coloured glaze Candy Jar",
+            "Tests referencing FDA 21 CFR Parts 175–178",
+            "Confirm exact jar and relevant test requirements for your market"
+          ]
+        ]
+      },
+      "disclaimer": "Results apply to the submitted samples. Model fields are “/”; a report-to-catalog-SPU match is not established here. These files are not blanket certification of the collection or FDA approval. Request the appropriate evidence for your specific product and destination."
+    },
+    "about": {
+      "eyebrow": "ABOUT ZOWIEWARE",
+      "title": "Your point of contact in Guangzhou.",
+      "body1": "Guangzhou Zowie Ware Trading Co., Ltd. is a trading and sourcing business connecting Chinese Liuli and glassware resources with international buyers.",
+      "body2": "Company materials describe design, product sourcing, quality control and overseas sales coordination. Tell us what your market needs, and discuss the product, sample and packing details with our team.",
+      "profile": "Download the buyer guide",
+      "verificationTitle": "Know who you are speaking with",
+      "verificationItems": [
+        [
+          "Company",
+          "Guangzhou Zowie Ware Trading Co., Ltd."
+        ],
+        [
+          "Business role",
+          "Trading, sourcing and project coordination"
+        ],
+        [
+          "Collection in this USB",
+          "111 product references · 5 families"
+        ],
+        [
+          "Direct contact",
+          "Company email · WhatsApp · Alibaba store"
+        ]
+      ]
+    },
+    "contact": {
+      "eyebrow": "START A CONVERSATION",
+      "title": "Take the next step with us.",
+      "body": "Build a shortlist in the catalog, or send us your market, product references and target quantity. Save our contact details to continue the conversation after the fair.",
+      "scan": "Scan to open WhatsApp",
+      "scanIncludes": "Internet required. Prefer email? Our address is also shown here. Save the vCard below for offline contact details.",
+      "addressLabel": "Office",
+      "address": "Unit 2116, Tower A, Poly Zhongjing Building, No. 406 Huasui Road, Tianhe District, Guangzhou, China"
+    },
+    "footer": "© 2026 ZowieWare · Autumn buyer collection · 14 September 2026",
+    "catalogPage": {
+      "eyebrow": "2026 TRADE CATALOG",
+      "title": "111 products, ready to explore.",
+      "intro": "Search by name or SPU, compare specifications and build your product shortlist. Confirm exact photos and sample details with us before ordering.",
+      "search": "Search name or SPU",
+      "all": "All families",
+      "filters": "Filters",
+      "packaging": "Packaging",
+      "standard": "Standard",
+      "gift": "Gift box",
+      "results": "products",
+      "clear": "Clear filters",
+      "noResults": "No products match these filters.",
+      "sku": "SPU",
+      "specification": "Specification / weight",
+      "moq": "MOQ status",
+      "qty": "Quantity",
+      "sample": "Sample policy",
+      "sampleStandard": "Sample availability, fees and freight are confirmed for your selected product.",
+      "officialName": "Official English trade name",
+      "giftUnavailable": "Dedicated packaging by inquiry",
+      "referenceImage": "Category reference",
+      "requestPhoto": "Request exact SPU photo",
+      "addRfq": "Add to RFQ",
+      "addedRfq": "Added to RFQ",
+      "selectedCount": "products selected",
+      "reviewRfq": "Review RFQ",
+      "rfqEyebrow": "TRADE INQUIRY BUILDER",
+      "rfqTitle": "Build a clear request for quotation.",
+      "rfqIntro": "Enter your target quantity, packaging preference, destination and preferred trade term. The quantity is your buying requirement, not a published MOQ.",
+      "buyerName": "Your name",
+      "buyerCompany": "Company",
+      "market": "Destination market",
+      "destination": "Destination city / port",
+      "preferredTerm": "Preferred trade term",
+      "preferredLogistics": "Preferred logistics",
+      "toConfirm": "To be confirmed",
+      "sea": "Sea freight",
+      "air": "Air freight",
+      "courier": "International courier",
+      "notes": "Customization, target timing or other notes",
+      "quantity": "Target quantity",
+      "remove": "Remove",
+      "emailRfq": "Create email",
+      "whatsappRfq": "Open WhatsApp",
+      "downloadCsv": "Download product request CSV",
+      "clearRfq": "Clear selection",
+      "rfqPrivacy": "No information is uploaded by this offline showroom. Email and WhatsApp open only when you choose them.",
+      "emptyRfq": "Select products from the catalog to build an RFQ.",
+      "moqPending": "To be confirmed with quotation",
+      "tradeTerms": "Supported terms: EXW / FOB / CIF",
+      "publicDataNote": "The catalog contains 111 product references. Availability, MOQ and pricing are confirmed by quotation.",
+      "quotationBasis": "Quotation basis: SPU · target quantity · packaging · destination · trade term · customization",
+      "downloadTxt": "Download full inquiry TXT",
+      "longMessage": "This inquiry is too long for a reliable email or WhatsApp link. Download the full TXT or CSV and attach it to your message.",
+      "invalidQuantity": "Enter a positive whole-number quantity.",
+      "sessionOnly": "Your selection and inquiry details stay in this page session. Download them before refreshing or leaving the catalog.",
+      "samplePending": "Confirm by selection",
+      "productPhoto": "Product reference · confirm selected colour and size before ordering",
+      "seriesPhoto": "Series reference · the selected size is not individually pictured",
+      "photoPending": "Product photo to be confirmed",
+      "aiColourMockup": "AI-generated colour mockup · confirm against the actual sample"
+    },
+    "trade": {
+      "eyebrow": "GLOBAL TRADE SUPPORT",
+      "title": "Agree the delivery details early.",
+      "body": "ZowieWare coordinates export packing and practical routing for international orders. Final freight, insurance, duties, port charges and destination services are confirmed for each shipment.",
+      "collectionTitle": "Global Trade Support",
+      "collectionMeta": "Packing · Logistics · Order documents",
+      "collectionAlt": "ZowieWare glassware prepared for international trade support",
+      "items": [
+        [
+          "Trade terms",
+          "EXW · FOB · CIF",
+          "Discuss the applicable term for your order and destination."
+        ],
+        [
+          "Transport",
+          "Sea · Air · Courier",
+          "Routing, charges and available services are confirmed for the shipment."
+        ],
+        [
+          "Samples",
+          "Quoted for your selection",
+          "Confirm sample availability, fees, freight and development scope before proceeding."
+        ],
+        [
+          "Coordination",
+          "Packing · Documents",
+          "Review protection, consolidation and available shipping documents with the team."
+        ]
+      ]
+    },
+    "quotation": {
+      "eyebrow": "REQUEST FOR QUOTATION",
+      "title": "A complete quotation starts with a complete brief.",
+      "body": "Send the selected SPUs, target quantities, packaging needs, destination and target timing. We can then discuss availability, MOQ, sample costs and a quotation for the agreed scope.",
+      "stepsTitle": "Information to send",
+      "steps": [
+        [
+          "01",
+          "Product",
+          "SPU, product name and the specification or variant required."
+        ],
+        [
+          "02",
+          "Target quantity",
+          "Your planned purchase quantity; this is not a published MOQ."
+        ],
+        [
+          "03",
+          "Packaging",
+          "Standard protection, gift-box option or bespoke packaging request."
+        ],
+        [
+          "04",
+          "Destination",
+          "Country, market and destination city or port."
+        ],
+        [
+          "05",
+          "Delivery basis",
+          "Preferred EXW, FOB or CIF term and logistics mode."
+        ],
+        [
+          "06",
+          "Customization",
+          "Logo, color, structure, printing, target timing and other requirements."
+        ]
+      ],
+      "packagingTitle": "Packaging options",
+      "packaging": [
+        [
+          "Glassware & tableware",
+          "Discuss individual protection, inserts and outer cartons for the selected item."
+        ],
+        [
+          "Liuli jewelry",
+          "Discuss protective presentation and individual packing."
+        ],
+        [
+          "Collectible Liuli art",
+          "Discuss cushioning and reinforced outer protection for the size and weight."
+        ],
+        [
+          "Bespoke packaging",
+          "Agree structure, materials, artwork, quantity and costs before approval."
+        ]
+      ],
+      "disclaimer": "Packaging and delivery arrangements are confirmed for the selected product and order. Agree costs and inclusions in the formal quotation."
+    },
+    "quick": {
+      "catalog": "Choose your collection",
+      "craft": "Discover the craft",
+      "trust": "Review sample reports",
+      "contact": "Start a conversation"
+    },
+    "confidence": {
+      "eyebrow": "BEFORE YOU COMMIT",
+      "title": "Four things to agree together.",
+      "body": "Use these checkpoints to turn an attractive product into a clearly specified order.",
+      "items": [
+        [
+          "01",
+          "The exact item",
+          "Confirm the SPU, current photos, dimensions, material, finish and intended use."
+        ],
+        [
+          "02",
+          "The approved sample",
+          "Agree sample costs and timing, then confirm the reference sample and specification in writing."
+        ],
+        [
+          "03",
+          "The acceptance criteria",
+          "Agree inspection scope, acceptable variation, protective packaging and any market-specific testing."
+        ],
+        [
+          "04",
+          "The shipment details",
+          "Confirm quantity, delivery schedule, trade term, destination and required documents in the quotation."
+        ]
+      ]
+    }
+  },
+  "es": {
+    "meta": {
+      "title": "ZowieWare · Liuli y cristalería fina",
+      "catalogTitle": "ZowieWare · Catálogo profesional"
+    },
+    "common": {
+      "brandLine": "Arte Liuli · Cristalería fina",
+      "home": "Inicio",
+      "catalog": "Catálogo",
+      "craft": "Proceso",
+      "company": "Empresa",
+      "contact": "Contacto",
+      "language": "Idioma",
+      "openCatalog": "Ver los 111 productos",
+      "viewCatalog": "Ver catálogo profesional",
+      "download": "Descargar",
+      "inquire": "Consultar",
+      "emailUs": "Enviar correo",
+      "whatsapp": "WhatsApp",
+      "alibaba": "Tienda Alibaba",
+      "saveContact": "Guardar contacto",
+      "tradeRibbonTitle": "Condiciones · EXW / FOB / CIF",
+      "tradeRibbonNote": "Las muestras, el embalaje y la entrega se cotizan según los productos y el destino.",
+      "offlineReady": "Diseñado para funcionar directamente desde esta memoria USB.",
+      "backTop": "Volver arriba",
+      "menu": "Menú",
+      "close": "Cerrar",
+      "openFile": "Abrir informe",
+      "trust": "Documentación"
+    },
+    "hero": {
+      "eyebrow": "OTOÑO 2026 · GUANGZHOU, CHINA",
+      "title": "El color toma forma en vidrio.",
+      "body": "Descubra el arte Liuli chino y la cristalería fina con una identidad propia. Una colección para regalos, interiores y tiendas, con coordinación de compras y personalización desde Guangzhou.",
+      "primary": "Explorar la colección",
+      "secondary": "Conocer a su socio de compras",
+      "badge": "Colección otoño 2026",
+      "proof": "Arte Liuli · Cristalería fina · Diseño y coordinación de compras",
+      "caption": "Arte floral Liuli · Imagen de referencia",
+      "offline": "Explore sin conexión. Contacte cuando esté listo."
+    },
+    "collections": {
+      "eyebrow": "LA COLECCIÓN",
+      "title": "Una expresión propia en vidrio.",
+      "body": "Explore cinco familias, desde cristalería de uso diario hasta esculturas Liuli. Prepare una selección para su mercado; la disponibilidad y las especificaciones se confirman por consulta.",
+      "products": "productos"
+    },
+    "value": {
+      "eyebrow": "LA PROPUESTA ZOWIEWARE",
+      "title": "Carácter en el producto. Claridad al colaborar.",
+      "body": "Arte chino en vidrio, una selección práctica y un contacto directo para su proyecto.",
+      "items": [
+        [
+          "01",
+          "Un lenguaje material propio",
+          "Color, transparencia y formas escultóricas unen regalos, piezas de mesa y arte decorativo."
+        ],
+        [
+          "02",
+          "Un proceso que puede conocer",
+          "Consulte las imágenes del proceso a la cera perdida para determinadas piezas Liuli, desde la cera hasta el acabado."
+        ],
+        [
+          "03",
+          "Coordinación de compras",
+          "Hable de diseño, selección, calidad y embalaje de exportación con un equipo comercial en Guangzhou."
+        ]
+      ]
+    },
+    "process": {
+      "eyebrow": "EL OFICIO",
+      "title": "De la forma en cera a la pieza Liuli.",
+      "body": "Estas once etapas ilustran un proceso a la cera perdida documentado por la empresa para determinadas piezas Liuli. Los métodos varían entre los productos de la colección.",
+      "steps": [
+        [
+          "Boceto de diseño",
+          "Se definen forma, proporción e intención decorativa."
+        ],
+        [
+          "Vertido de cera",
+          "La cera entra en el molde preparado."
+        ],
+        [
+          "Refinado de la cera",
+          "La forma se desmolda, limpia y retoca a mano."
+        ],
+        [
+          "Desencerado al vapor",
+          "La cera se elimina para crear la cavidad de colada."
+        ],
+        [
+          "Carga de color",
+          "Los colores de vidrio se disponen según el efecto buscado."
+        ],
+        [
+          "Cocción a alta temperatura",
+          "El calor integra la composición en una forma Liuli."
+        ],
+        [
+          "Recocido controlado",
+          "El enfriamiento gradual estabiliza el material."
+        ],
+        [
+          "Retirada del molde",
+          "La pieza cocida se libera cuidadosamente."
+        ],
+        [
+          "Rectificado húmedo",
+          "Superficies y bordes se corrigen con agua."
+        ],
+        [
+          "Pulido y limpieza",
+          "Se perfeccionan claridad, tacto y presentación."
+        ],
+        [
+          "Inspección y embalaje",
+          "La pieza terminada se revisa y protege."
+        ]
+      ],
+      "summary": "Ver las 11 etapas ilustradas",
+      "note": "Imágenes del proceso facilitadas por la empresa. Confirme el método y el acabado del artículo elegido."
+    },
+    "oem": {
+      "eyebrow": "OEM / ODM",
+      "title": "De su idea a una muestra por confirmar.",
+      "body": "Comparta el uso previsto, el mercado y su idea. Podemos estudiar el producto, color, logotipo y embalaje antes de acordar el desarrollo de la muestra.",
+      "points": [
+        "Parta de una referencia de la colección o de su concepto",
+        "Confirme el artículo, el acabado y su uso",
+        "Acuerde costes, plazos y criterios de aprobación de la muestra",
+        "Revise el embalaje y los requisitos antes de producir"
+      ],
+      "pdf": "Abrir la guía del comprador",
+      "workflow": "Flujo de personalización"
+    },
+    "quality": {
+      "eyebrow": "DOCUMENTOS PARA SU REVISIÓN",
+      "title": "Conozca la muestra. Lea el informe.",
+      "body": "Este USB incluye dos informes de ensayo facilitados por la empresa. Identifican la muestra, los ensayos, la fecha y el solicitante para facilitar una revisión concreta.",
+      "docs": [
+        [
+          "Vaso de vidrio · informe",
+          "TQT0023B533E · 06 jul 2026\nMuestra: Liuqi Glass Cup"
+        ],
+        [
+          "Tarro de dulces · informe",
+          "TQT0023B619E · 09 jul 2026\nMuestra: Coloured glaze Candy Jar"
+        ]
+      ],
+      "matrixTitle": "Alcance de los documentos",
+      "matrixIntro": "Solicitante: Guangzhou Zowie Ware Trading Co., Ltd. Emisor: Shenzhen Tianqi Testing Technology Service Co., Ltd. Los informes indican Pass en los ensayos enumerados.",
+      "matrix": {
+        "headers": [
+          "Informe",
+          "Muestra ensayada",
+          "Ensayos indicados",
+          "Antes del pedido",
+          "Archivo"
+        ],
+        "rows": [
+          [
+            "TQT0023B533E",
+            "Liuqi Glass Cup",
+            "Ensayos de contacto alimentario enumerados",
+            "Confirmar SPU, material, decoración y uso"
+          ],
+          [
+            "TQT0023B619E",
+            "Coloured glaze Candy Jar",
+            "Ensayos con referencia a FDA 21 CFR Parts 175–178",
+            "Confirmar el tarro y los requisitos del mercado"
+          ]
+        ]
+      },
+      "disclaimer": "Los resultados corresponden solo a las muestras presentadas. El campo de modelo indica “/”; aquí no se establece una correspondencia con un SPU del catálogo. No son una certificación de toda la colección ni una aprobación de la FDA. Solicite la documentación adecuada para su artículo y destino."
+    },
+    "about": {
+      "eyebrow": "SOBRE ZOWIEWARE",
+      "title": "Su contacto en Guangzhou.",
+      "body1": "Guangzhou Zowie Ware Trading Co., Ltd. es una empresa de comercio y compras que conecta recursos chinos de Liuli y cristalería con compradores internacionales.",
+      "body2": "Sus materiales describen actividades de diseño, compras, control de calidad y coordinación de ventas al exterior. Comparta las necesidades de su mercado para revisar producto, muestras y embalaje.",
+      "profile": "Descargar la guía en inglés",
+      "verificationTitle": "Conozca a su interlocutor",
+      "verificationItems": [
+        [
+          "Empresa",
+          "Guangzhou Zowie Ware Trading Co., Ltd."
+        ],
+        [
+          "Actividad",
+          "Comercio, compras y coordinación de proyectos"
+        ],
+        [
+          "Catálogo del USB",
+          "111 referencias · 5 familias"
+        ],
+        [
+          "Contacto directo",
+          "Correo · WhatsApp · Tienda Alibaba"
+        ]
+      ]
+    },
+    "contact": {
+      "eyebrow": "HABLEMOS",
+      "title": "Demos el siguiente paso.",
+      "body": "Prepare una selección en el catálogo o envíenos su mercado, referencias y cantidad prevista. Guarde nuestros datos para continuar después de la feria.",
+      "scan": "Escanee para abrir WhatsApp",
+      "scanIncludes": "Requiere internet. También puede escribirnos por correo o guardar la vCard sin conexión.",
+      "addressLabel": "Oficina",
+      "address": "Unit 2116, Tower A, Poly Zhongjing Building, No. 406 Huasui Road, Tianhe District, Guangzhou, China"
+    },
+    "footer": "© 2026 ZowieWare · Colección de otoño · 14 septiembre 2026",
+    "catalogPage": {
+      "eyebrow": "CATÁLOGO PROFESIONAL 2026",
+      "title": "111 productos para explorar.",
+      "intro": "Busque por nombre o SPU, compare especificaciones y prepare su selección. Confirme fotos y muestras del artículo exacto antes del pedido.",
+      "search": "Buscar nombre o SPU",
+      "all": "Todas las familias",
+      "filters": "Filtros",
+      "packaging": "Embalaje",
+      "standard": "Estándar",
+      "gift": "Caja regalo",
+      "results": "productos",
+      "clear": "Limpiar filtros",
+      "noResults": "Ningún producto coincide con estos filtros.",
+      "sku": "SPU",
+      "specification": "Especificación / peso",
+      "moq": "Estado del MOQ",
+      "qty": "Cantidad",
+      "sample": "Muestras",
+      "sampleStandard": "Disponibilidad, costes y transporte de muestras se confirman para el artículo seleccionado.",
+      "officialName": "Nombre comercial oficial en inglés",
+      "giftUnavailable": "Embalaje dedicado por consulta",
+      "referenceImage": "Referencia de categoría",
+      "requestPhoto": "Solicitar foto del SPU",
+      "addRfq": "Añadir a RFQ",
+      "addedRfq": "Añadido a RFQ",
+      "selectedCount": "productos seleccionados",
+      "reviewRfq": "Revisar RFQ",
+      "rfqEyebrow": "CREADOR DE CONSULTAS",
+      "rfqTitle": "Prepare una solicitud de cotización clara.",
+      "rfqIntro": "Indique cantidad objetivo, embalaje, destino y condición comercial preferida. La cantidad representa su necesidad de compra, no un MOQ publicado.",
+      "buyerName": "Su nombre",
+      "buyerCompany": "Empresa",
+      "market": "Mercado de destino",
+      "destination": "Ciudad / puerto de destino",
+      "preferredTerm": "Condición comercial preferida",
+      "preferredLogistics": "Logística preferida",
+      "toConfirm": "Por confirmar",
+      "sea": "Transporte marítimo",
+      "air": "Transporte aéreo",
+      "courier": "Mensajería internacional",
+      "notes": "Personalización, plazo u otras notas",
+      "quantity": "Cantidad objetivo",
+      "remove": "Eliminar",
+      "emailRfq": "Crear correo",
+      "whatsappRfq": "Abrir WhatsApp",
+      "downloadCsv": "Descargar solicitud de productos CSV",
+      "clearRfq": "Borrar selección",
+      "rfqPrivacy": "Este showroom sin conexión no carga información. El correo y WhatsApp solo se abren cuando usted los elige.",
+      "emptyRfq": "Seleccione productos del catálogo para crear una RFQ.",
+      "moqPending": "Por confirmar con la cotización",
+      "tradeTerms": "Condiciones admitidas: EXW / FOB / CIF",
+      "publicDataNote": "El catálogo contiene 111 referencias. Disponibilidad, MOQ y precios se confirman por cotización.",
+      "quotationBasis": "Base de cotización: SPU · cantidad objetivo · embalaje · destino · condición comercial · personalización",
+      "downloadTxt": "Descargar consulta completa TXT",
+      "longMessage": "La consulta es demasiado larga para un enlace fiable de correo o WhatsApp. Descargue el TXT o CSV y adjúntelo a su mensaje.",
+      "invalidQuantity": "Introduzca una cantidad entera positiva.",
+      "sessionOnly": "La selección y los datos duran esta sesión de página. Descárguelos antes de actualizar o salir del catálogo.",
+      "samplePending": "Confirmar según selección",
+      "productPhoto": "Referencia del producto · confirme el color y tamaño antes de pedir",
+      "seriesPhoto": "Referencia de la serie · el tamaño elegido no se muestra por separado",
+      "photoPending": "Foto del producto por confirmar",
+      "aiColourMockup": "Simulación de color generada por IA · confirmar con la muestra real"
+    },
+    "trade": {
+      "eyebrow": "SOPORTE COMERCIAL GLOBAL",
+      "title": "Acuerde pronto los detalles de entrega.",
+      "body": "ZowieWare coordina embalaje de exportación y rutas prácticas para pedidos internacionales. Flete, seguro, aranceles, cargos portuarios y servicios de destino se confirman para cada envío.",
+      "collectionTitle": "Soporte comercial global",
+      "collectionMeta": "Embalaje · Logística · Documentos",
+      "collectionAlt": "Cristalería ZowieWare preparada para soporte comercial internacional",
+      "items": [
+        [
+          "Términos",
+          "EXW · FOB · CIF",
+          "Se acuerda el término aplicable según el pedido y el destino."
+        ],
+        [
+          "Transporte",
+          "Mar · Aire · Mensajería",
+          "Rutas, costes y servicios se confirman para cada envío."
+        ],
+        [
+          "Muestras",
+          "Cotización según selección",
+          "Confirme disponibilidad, costes, transporte y desarrollo antes de continuar."
+        ],
+        [
+          "Coordinación",
+          "Embalaje · Documentos",
+          "Revise protección, consolidación y documentación disponible con el equipo."
+        ]
+      ]
+    },
+    "quotation": {
+      "eyebrow": "SOLICITUD DE COTIZACIÓN",
+      "title": "Una cotización completa comienza con un brief completo.",
+      "body": "Envíe SPU, cantidades previstas, embalaje, destino y fechas deseadas para revisar disponibilidad, MOQ, muestras y cotización.",
+      "stepsTitle": "Información necesaria",
+      "steps": [
+        [
+          "01",
+          "Producto",
+          "SPU, nombre del producto y especificación o variante requerida."
+        ],
+        [
+          "02",
+          "Cantidad objetivo",
+          "Cantidad de compra prevista; no representa un MOQ publicado."
+        ],
+        [
+          "03",
+          "Embalaje",
+          "Protección estándar, caja regalo o solicitud de embalaje a medida."
+        ],
+        [
+          "04",
+          "Destino",
+          "País, mercado y ciudad o puerto de destino."
+        ],
+        [
+          "05",
+          "Base de entrega",
+          "Condición EXW, FOB o CIF y modalidad logística preferidas."
+        ],
+        [
+          "06",
+          "Personalización",
+          "Logotipo, color, estructura, impresión, plazo y otros requisitos."
+        ]
+      ],
+      "packagingTitle": "Opciones de embalaje",
+      "packaging": [
+        [
+          "Cristalería y mesa",
+          "Estudie protección individual, insertos y cajas exteriores para cada artículo."
+        ],
+        [
+          "Joyería Liuli",
+          "Revise la presentación y la protección individual."
+        ],
+        [
+          "Arte Liuli",
+          "Revise amortiguación y protección reforzada según tamaño y peso."
+        ],
+        [
+          "Embalaje personalizado",
+          "Acuerde estructura, materiales, diseño, cantidad y costes."
+        ]
+      ],
+      "disclaimer": "El embalaje y la entrega dependen del artículo y del pedido. Acuerde costes e inclusiones en la cotización formal."
+    },
+    "quick": {
+      "catalog": "Elija su colección",
+      "craft": "Descubra el proceso",
+      "trust": "Consulte los informes",
+      "contact": "Inicie una conversación"
+    },
+    "confidence": {
+      "eyebrow": "ANTES DE CONFIRMAR",
+      "title": "Cuatro puntos para acordar juntos.",
+      "body": "Convierta su selección en un pedido con especificaciones claras.",
+      "items": [
+        [
+          "01",
+          "El artículo exacto",
+          "Confirme SPU, fotos actuales, medidas, material, acabado y uso."
+        ],
+        [
+          "02",
+          "La muestra aprobada",
+          "Acuerde costes y plazos; confirme por escrito la muestra de referencia y las especificaciones."
+        ],
+        [
+          "03",
+          "Los criterios de aceptación",
+          "Acuerde inspección, variaciones aceptables, protección y ensayos para su mercado."
+        ],
+        [
+          "04",
+          "Los detalles del envío",
+          "Confirme cantidad, calendario, término comercial, destino y documentos en la cotización."
+        ]
+      ]
+    }
+  },
+  "ar": {
+    "meta": {
+      "title": "ZowieWare · فن لِيُولي والزجاج الراقي",
+      "catalogTitle": "ZowieWare · كتالوج التجارة"
+    },
+    "common": {
+      "brandLine": "فن لِيُولي · زجاج راقٍ",
+      "home": "الرئيسية",
+      "catalog": "الكتالوج",
+      "craft": "الحرفة",
+      "company": "الشركة",
+      "contact": "التواصل",
+      "language": "اللغة",
+      "openCatalog": "استكشف 111 منتجًا",
+      "viewCatalog": "عرض كتالوج التجارة",
+      "download": "تنزيل",
+      "inquire": "استفسار",
+      "emailUs": "راسلنا",
+      "whatsapp": "واتساب",
+      "alibaba": "متجر علي بابا",
+      "saveContact": "حفظ جهة الاتصال",
+      "tradeRibbonTitle": "الشروط التجارية · EXW / FOB / CIF",
+      "tradeRibbonNote": "تُحدد أسعار العينات والتغليف والتسليم حسب المنتجات والوجهة.",
+      "offlineReady": "مصمم للعمل مباشرة من وحدة USB هذه.",
+      "backTop": "إلى الأعلى",
+      "menu": "القائمة",
+      "close": "إغلاق",
+      "openFile": "فتح التقرير",
+      "trust": "وثائق للمشتري"
+    },
+    "hero": {
+      "eyebrow": "خريف 2026 · قوانغتشو، الصين",
+      "title": "ألوان تتجسد في الزجاج.",
+      "body": "اكتشف فن لِيُولي الصيني والأواني الزجاجية الراقية بطابع مميز. مجموعة للهدايا والديكور ومتاجر التجزئة، مع تنسيق التوريد والتخصيص من قوانغتشو.",
+      "primary": "استكشف المجموعة",
+      "secondary": "تعرّف إلى شريك التوريد",
+      "badge": "مجموعة خريف 2026",
+      "proof": "فن لِيُولي · أوانٍ زجاجية راقية · تنسيق التصميم والتوريد",
+      "caption": "فن الزهور من لِيُولي · صورة مرجعية للمجموعة",
+      "offline": "تصفح دون اتصال. تواصل عندما تكون مستعدًا."
+    },
+    "collections": {
+      "eyebrow": "المجموعة",
+      "title": "تعبير مميز من الزجاج.",
+      "body": "استكشف خمس فئات، من الأواني اليومية إلى منحوتات لِيُولي. جهّز قائمة تناسب سوقك؛ ويُؤكد التوفر والمواصفات الدقيقة عند الاستفسار.",
+      "products": "منتجًا"
+    },
+    "value": {
+      "eyebrow": "ما يميز ZOWIEWARE",
+      "title": "طابع مميز للمنتج. وضوح في التعاون.",
+      "body": "فن زجاج صيني، وخيارات عملية، وجهة اتصال مباشرة لمشروعك.",
+      "items": [
+        [
+          "01",
+          "لغة مميزة للمادة",
+          "تربط الألوان والشفافية والأشكال النحتية بين الهدايا وأدوات المائدة والفن الزخرفي."
+        ],
+        [
+          "02",
+          "حرفة يمكنك اكتشافها",
+          "شاهد صور مراحل الصب بالشمع المفقود لقطع مختارة من لِيُولي، من تشكيل الشمع إلى التشطيب."
+        ],
+        [
+          "03",
+          "شريك لتنسيق التوريد",
+          "ناقش التصميم والاختيار ومتطلبات الجودة وتغليف التصدير مع فريق تجاري في قوانغتشو."
+        ]
+      ]
+    },
+    "process": {
+      "eyebrow": "الحرفة",
+      "title": "من القالب الشمعي إلى قطعة لِيُولي.",
+      "body": "توضح هذه المراحل الإحدى عشرة عملية الصب بالشمع المفقود الموثقة في مواد الشركة لقطع مختارة من لِيُولي. تختلف طرق الإنتاج بين منتجات المجموعة.",
+      "steps": [
+        [
+          "رسم التصميم",
+          "تُحدد الهيئة والنسب والهدف الزخرفي."
+        ],
+        [
+          "صب الشمع",
+          "يدخل الشمع في القالب المجهز لتشكيل القطعة."
+        ],
+        [
+          "تحرير نموذج الشمع",
+          "يُفك النموذج وينظف ويهذب يدويًا."
+        ],
+        [
+          "إزالة الشمع بالبخار",
+          "يُزال الشمع لتكوين تجويف الصب."
+        ],
+        [
+          "تعبئة ألوان الزجاج",
+          "تُرتب الألوان المختارة لتحقيق الأثر المقصود."
+        ],
+        [
+          "الحرق بدرجة عالية",
+          "توحّد الحرارة التكوين في شكل لِيُولي واحد."
+        ],
+        [
+          "التخمير المضبوط",
+          "يبرد العمل تدريجيًا لاستقرار المادة."
+        ],
+        [
+          "إزالة القالب",
+          "تُحرر القطعة المحروقة بعناية."
+        ],
+        [
+          "الجلخ الرطب",
+          "تُصحح الأسطح والحواف بالماء."
+        ],
+        [
+          "الصقل والتنظيف",
+          "يُحسن الصفاء والملمس والعرض."
+        ],
+        [
+          "الفحص والتعبئة",
+          "تُراجع القطعة النهائية وتُحمى للرحلة."
+        ]
+      ],
+      "summary": "استعرض المراحل المصورة الإحدى عشرة",
+      "note": "صور للعملية مقدمة من الشركة. يرجى تأكيد طريقة التصنيع والتشطيب للمنتج المختار."
+    },
+    "oem": {
+      "eyebrow": "OEM / ODM",
+      "title": "من فكرتك إلى عينة متفق عليها.",
+      "body": "شاركنا الاستخدام والسوق وفكرتك. يمكن مناقشة المنتج واللون والشعار والتغليف قبل الاتفاق على نطاق تطوير العينة.",
+      "points": [
+        "ابدأ بمرجع من المجموعة أو بفكرتك الخاصة",
+        "حدد المنتج والتشطيب والاستخدام",
+        "اتفق على تكاليف العينة والمدة ومعايير الموافقة",
+        "راجع التغليف ومتطلبات الطلب قبل الإنتاج"
+      ],
+      "pdf": "افتح دليل المشتري",
+      "workflow": "مسار التخصيص"
+    },
+    "quality": {
+      "eyebrow": "وثائق قابلة للمراجعة",
+      "title": "تعرّف إلى العينة. اقرأ التقرير.",
+      "body": "تتضمن وحدة USB تقريرَي اختبار مقدمين من الشركة. يحدد كل منهما العينة والاختبارات والتاريخ ومقدم الطلب لتبدأ المراجعة من وثيقة محددة.",
+      "docs": [
+        [
+          "كوب زجاجي · تقرير اختبار",
+          "TQT0023B533E · 06 يوليو 2026\nالعينة: Liuqi Glass Cup"
+        ],
+        [
+          "مرطبان حلوى · تقرير اختبار",
+          "TQT0023B619E · 09 يوليو 2026\nالعينة: Coloured glaze Candy Jar"
+        ]
+      ],
+      "matrixTitle": "نطاق الوثائق",
+      "matrixIntro": "مقدم الطلب: Guangzhou Zowie Ware Trading Co., Ltd. الجهة المصدرة: Shenzhen Tianqi Testing Technology Service Co., Ltd. يسجل التقريران نتيجة Pass للاختبارات المذكورة.",
+      "matrix": {
+        "headers": [
+          "التقرير",
+          "العينة المختبرة",
+          "نطاق الاختبارات",
+          "قبل الطلب",
+          "الملف"
+        ],
+        "rows": [
+          [
+            "TQT0023B533E",
+            "Liuqi Glass Cup",
+            "اختبارات ملامسة الغذاء المذكورة في التقرير",
+            "تأكيد رمز SPU والمادة والزخرفة والاستخدام"
+          ],
+          [
+            "TQT0023B619E",
+            "Coloured glaze Candy Jar",
+            "اختبارات تشير إلى FDA 21 CFR Parts 175–178",
+            "تأكيد المرطبان ومتطلبات الاختبار للسوق المقصود"
+          ]
+        ]
+      },
+      "disclaimer": "تنطبق النتائج على العينات المقدمة فقط. حقول الطراز تحمل “/”، ولم تُثبت هنا مطابقة التقرير مع رمز SPU في الكتالوج. لا تمثل هذه الملفات اعتمادًا لجميع المنتجات أو موافقة من FDA. اطلب الوثائق المناسبة للمنتج والوجهة المحددين."
+    },
+    "about": {
+      "eyebrow": "عن ZOWIEWARE",
+      "title": "جهة اتصالك في قوانغتشو.",
+      "body1": "Guangzhou Zowie Ware Trading Co., Ltd. شركة تجارة وتوريد تربط موارد لِيُولي والأواني الزجاجية الصينية بالمشترين الدوليين.",
+      "body2": "تصف مواد الشركة أنشطة التصميم والتوريد وضبط الجودة وتنسيق المبيعات الخارجية. شاركنا احتياجات سوقك لمناقشة المنتج والعينات والتغليف.",
+      "profile": "تنزيل دليل المشتري بالإنجليزية",
+      "verificationTitle": "تعرّف إلى الجهة التي تتعامل معها",
+      "verificationItems": [
+        [
+          "الشركة",
+          "Guangzhou Zowie Ware Trading Co., Ltd."
+        ],
+        [
+          "النشاط",
+          "التجارة والتوريد وتنسيق المشاريع"
+        ],
+        [
+          "كتالوج USB",
+          "111 مرجعًا للمنتجات · 5 فئات"
+        ],
+        [
+          "اتصال مباشر",
+          "البريد الإلكتروني · WhatsApp · متجر Alibaba"
+        ]
+      ]
+    },
+    "contact": {
+      "eyebrow": "ابدأ الحديث",
+      "title": "لنبدأ الخطوة التالية معًا.",
+      "body": "جهّز قائمة من الكتالوج أو أرسل السوق المستهدف ومراجع المنتجات والكمية. احفظ بياناتنا لمتابعة التواصل بعد المعرض.",
+      "scan": "امسح الرمز لفتح WhatsApp",
+      "scanIncludes": "يتطلب اتصالًا بالإنترنت. يمكنك أيضًا مراسلتنا بالبريد أو حفظ بطاقة vCard دون اتصال.",
+      "addressLabel": "المكتب",
+      "address": "Unit 2116, Tower A, Poly Zhongjing Building, No. 406 Huasui Road, Tianhe District, Guangzhou, China"
+    },
+    "footer": "© 2026 ZowieWare · مجموعة الخريف · 14 سبتمبر 2026",
+    "catalogPage": {
+      "eyebrow": "كتالوج التجارة 2026",
+      "title": "111 منتجًا للاستكشاف.",
+      "intro": "ابحث بالاسم أو رمز SPU وقارن المواصفات وجهّز قائمتك. أكد الصور والعينة للمنتج المحدد قبل الطلب.",
+      "search": "ابحث بالاسم أو SPU",
+      "all": "كل العائلات",
+      "filters": "عوامل التصفية",
+      "packaging": "التغليف",
+      "standard": "قياسي",
+      "gift": "علبة هدايا",
+      "results": "منتجًا",
+      "clear": "مسح التصفية",
+      "noResults": "لا توجد منتجات مطابقة.",
+      "sku": "SPU",
+      "specification": "المواصفات / الوزن",
+      "moq": "حالة الحد الأدنى",
+      "qty": "الكمية",
+      "sample": "العينة",
+      "sampleStandard": "يُؤكد توفر العينات وتكاليفها وشحنها للمنتج المختار.",
+      "officialName": "الاسم التجاري الرسمي بالإنجليزية",
+      "giftUnavailable": "التغليف المخصص عند الاستفسار",
+      "referenceImage": "صورة مرجعية للفئة",
+      "requestPhoto": "طلب صورة SPU الدقيقة",
+      "addRfq": "إضافة إلى RFQ",
+      "addedRfq": "أضيف إلى RFQ",
+      "selectedCount": "منتجات مختارة",
+      "reviewRfq": "مراجعة RFQ",
+      "rfqEyebrow": "منشئ طلب عرض السعر",
+      "rfqTitle": "أنشئ طلب عرض سعر واضحًا.",
+      "rfqIntro": "أدخل الكمية المستهدفة والتغليف والوجهة والشرط التجاري المفضل. الكمية هي احتياجك الشرائي وليست حدًا أدنى منشورًا.",
+      "buyerName": "اسمك",
+      "buyerCompany": "الشركة",
+      "market": "سوق الوجهة",
+      "destination": "مدينة / ميناء الوجهة",
+      "preferredTerm": "الشرط التجاري المفضل",
+      "preferredLogistics": "وسيلة الشحن المفضلة",
+      "toConfirm": "يؤكد لاحقًا",
+      "sea": "شحن بحري",
+      "air": "شحن جوي",
+      "courier": "بريد سريع دولي",
+      "notes": "التخصيص أو الموعد أو ملاحظات أخرى",
+      "quantity": "الكمية المستهدفة",
+      "remove": "إزالة",
+      "emailRfq": "إنشاء بريد",
+      "whatsappRfq": "فتح واتساب",
+      "downloadCsv": "تنزيل طلب المنتجات CSV",
+      "clearRfq": "مسح الاختيار",
+      "rfqPrivacy": "لا يرفع هذا المعرض غير المتصل أي معلومات. يفتح البريد وواتساب فقط عند اختيارك.",
+      "emptyRfq": "اختر منتجات من الكتالوج لإنشاء RFQ.",
+      "moqPending": "يؤكد مع عرض السعر",
+      "tradeTerms": "الشروط المدعومة: EXW / FOB / CIF",
+      "publicDataNote": "يضم الكتالوج 111 مرجعًا للمنتجات. يُؤكد التوفر والحد الأدنى والأسعار في عرض السعر.",
+      "quotationBasis": "أساس عرض السعر: SPU · الكمية المستهدفة · التغليف · الوجهة · الشرط التجاري · التخصيص",
+      "downloadTxt": "تنزيل الاستفسار الكامل TXT",
+      "longMessage": "الاستفسار طويل جدًا لرابط بريد أو WhatsApp موثوق. نزّل ملف TXT أو CSV الكامل وأرفقه برسالتك.",
+      "invalidQuantity": "أدخل كمية على شكل عدد صحيح موجب.",
+      "sessionOnly": "تبقى اختياراتك وبياناتك في جلسة الصفحة الحالية. نزّلها قبل التحديث أو مغادرة الكتالوج.",
+      "samplePending": "يُؤكد حسب الاختيار",
+      "productPhoto": "صورة مرجعية للمنتج · يرجى تأكيد اللون والمقاس قبل الطلب",
+      "seriesPhoto": "صورة مرجعية للمجموعة · المقاس المحدد غير معروض منفرداً",
+      "photoPending": "صورة المنتج قيد التأكيد",
+      "aiColourMockup": "تصور لوني مولّد بالذكاء الاصطناعي · يُرجى التأكيد وفق العينة الفعلية"
+    },
+    "trade": {
+      "eyebrow": "دعم التجارة العالمية",
+      "title": "اتفق على تفاصيل التسليم مبكرًا.",
+      "body": "تنسق ZowieWare تغليف التصدير والمسارات العملية للطلبات الدولية. يتم تأكيد الشحن والتأمين والرسوم وتكاليف الميناء وخدمات الوجهة لكل شحنة.",
+      "collectionTitle": "دعم التجارة العالمية",
+      "collectionMeta": "التغليف · النقل · الوثائق",
+      "collectionAlt": "منتجات ZowieWare الزجاجية المجهزة لدعم التجارة الدولية",
+      "items": [
+        [
+          "شروط التجارة",
+          "EXW · FOB · CIF",
+          "يُناقش الشرط المناسب للطلب والوجهة."
+        ],
+        [
+          "وسائل النقل",
+          "بحر · جو · بريد سريع",
+          "تُؤكد المسارات والتكاليف والخدمات لكل شحنة."
+        ],
+        [
+          "العينات",
+          "تسعير حسب الاختيار",
+          "أكد التوفر والرسوم والشحن ونطاق التطوير قبل المتابعة."
+        ],
+        [
+          "التنسيق",
+          "التغليف · الوثائق",
+          "راجع الحماية وتجميع الشحنات والوثائق المتاحة مع الفريق."
+        ]
+      ]
+    },
+    "quotation": {
+      "eyebrow": "طلب عرض السعر",
+      "title": "عرض السعر الكامل يبدأ بمتطلبات كاملة.",
+      "body": "أرسل رموز SPU والكميات والتغليف والوجهة والتوقيت المطلوب لمناقشة التوفر والحد الأدنى والعينات وعرض السعر.",
+      "stepsTitle": "المعلومات المطلوبة",
+      "steps": [
+        [
+          "01",
+          "المنتج",
+          "رمز SPU واسم المنتج والمواصفة أو الخيار المطلوب."
+        ],
+        [
+          "02",
+          "الكمية المستهدفة",
+          "كمية الشراء المخططة وليست حدًا أدنى منشورًا."
+        ],
+        [
+          "03",
+          "التغليف",
+          "حماية قياسية أو علبة هدايا أو طلب تغليف مخصص."
+        ],
+        [
+          "04",
+          "الوجهة",
+          "الدولة والسوق ومدينة أو ميناء الوجهة."
+        ],
+        [
+          "05",
+          "أساس التسليم",
+          "شرط EXW أو FOB أو CIF ووسيلة الشحن المفضلة."
+        ],
+        [
+          "06",
+          "التخصيص",
+          "الشعار واللون والهيكل والطباعة والموعد والمتطلبات الأخرى."
+        ]
+      ],
+      "packagingTitle": "خيارات التغليف",
+      "packaging": [
+        [
+          "الأواني وأدوات المائدة",
+          "ناقش الحماية الفردية والحشوات والصناديق لكل منتج."
+        ],
+        [
+          "مجوهرات لِيُولي",
+          "ناقش العرض والحماية الفردية."
+        ],
+        [
+          "فن لِيُولي",
+          "ناقش التبطين والحماية الخارجية حسب الحجم والوزن."
+        ],
+        [
+          "تغليف مخصص",
+          "اتفق على الهيكل والمواد والتصميم والكمية والتكاليف."
+        ]
+      ],
+      "disclaimer": "تُؤكد ترتيبات التغليف والتسليم لكل منتج وطلب. اتفق على التكاليف وما يشمله العرض الرسمي."
+    },
+    "quick": {
+      "catalog": "اختر مجموعتك",
+      "craft": "اكتشف الحرفة",
+      "trust": "راجع تقارير العينات",
+      "contact": "ابدأ التواصل"
+    },
+    "confidence": {
+      "eyebrow": "قبل تأكيد الطلب",
+      "title": "أربع نقاط نتفق عليها معًا.",
+      "body": "حوّل اختيارك إلى طلب ذي مواصفات واضحة.",
+      "items": [
+        [
+          "01",
+          "المنتج الدقيق",
+          "أكد رمز SPU والصور الحالية والأبعاد والمادة والتشطيب والاستخدام."
+        ],
+        [
+          "02",
+          "العينة المعتمدة",
+          "اتفق على التكاليف والمدة ثم أكد العينة المرجعية والمواصفات كتابةً."
+        ],
+        [
+          "03",
+          "معايير القبول",
+          "اتفق على نطاق الفحص والتفاوت المقبول والتغليف والاختبارات الخاصة بالسوق."
+        ],
+        [
+          "04",
+          "تفاصيل الشحن",
+          "أكد الكمية والجدول وشروط التجارة والوجهة والوثائق في عرض السعر."
+        ]
+      ]
+    }
+  },
+  "zh": {
+    "meta": {
+      "title": "ZowieWare · 琉璃艺术与精品玻璃器皿",
+      "catalogTitle": "ZowieWare · 商用产品目录"
+    },
+    "common": {
+      "brandLine": "琉璃艺术 · 精品玻璃器皿",
+      "home": "首页",
+      "catalog": "产品目录",
+      "craft": "生产工艺",
+      "company": "公司介绍",
+      "contact": "联系我们",
+      "language": "语言",
+      "openCatalog": "查看全部 111 个产品",
+      "viewCatalog": "查看商用目录",
+      "download": "下载文件",
+      "inquire": "立即询价",
+      "emailUs": "发送邮件",
+      "whatsapp": "WhatsApp",
+      "alibaba": "Alibaba 店铺",
+      "saveContact": "保存联系人",
+      "tradeRibbonTitle": "支持条款 · EXW / FOB / CIF",
+      "tradeRibbonNote": "样品、包装和交付根据所选产品及目的地单独报价。",
+      "offlineReady": "本展厅可直接从 U 盘离线运行。",
+      "backTop": "返回顶部",
+      "menu": "菜单",
+      "close": "关闭",
+      "openFile": "打开报告",
+      "trust": "采购信任"
+    },
+    "hero": {
+      "eyebrow": "2026 秋季精选 · 中国广州",
+      "title": "让色彩，凝成琉璃。",
+      "body": "从中国琉璃艺术到精品玻璃器皿，为礼赠、家居陈设与零售选品带来鲜明个性。广州团队协助沟通选品、设计与定制需求。",
+      "primary": "探索产品系列",
+      "secondary": "认识采购合作伙伴",
+      "badge": "2026 秋季产品精选",
+      "proof": "琉璃艺术 · 精品玻璃器皿 · 设计与采购协调",
+      "caption": "琉璃花艺 · 系列参考图",
+      "offline": "离线浏览，准备好后再联系。"
+    },
+    "collections": {
+      "eyebrow": "产品系列",
+      "title": "以玻璃，表达不同风格。",
+      "body": "从日常器皿到琉璃雕塑，探索五个产品系列。可在目录中建立适合目标市场的选品清单；供货情况与具体规格通过询价确认。",
+      "products": "个产品"
+    },
+    "value": {
+      "eyebrow": "ZOWIEWARE 的特色",
+      "title": "产品有个性，合作有依据。",
+      "body": "中国玻璃艺术、实用的产品选择，以及可以直接沟通项目需求的团队。",
+      "items": [
+        [
+          "01",
+          "鲜明的材质表达",
+          "色彩、通透感和雕塑造型，串联礼品、餐具与装饰艺术。"
+        ],
+        [
+          "02",
+          "可以了解的工艺",
+          "通过现有失蜡工艺图片，了解部分琉璃作品从蜡型到精修的制作过程。"
+        ],
+        [
+          "03",
+          "协同采购的伙伴",
+          "由广州贸易团队沟通设计、选品、质量要求与出口包装。"
+        ]
+      ]
+    },
+    "process": {
+      "eyebrow": "琉璃匠艺",
+      "title": "从蜡型，到琉璃成品。",
+      "body": "这十一道流程来自公司资料中的失蜡铸造工艺说明，适用于部分琉璃制作；其他玻璃系列的生产工艺需按具体产品确认。",
+      "steps": [
+        [
+          "设计绘稿",
+          "确定作品的造型、比例和装饰表达。"
+        ],
+        [
+          "灌制蜡模",
+          "将蜡液注入准备好的模具，形成作品雏形。"
+        ],
+        [
+          "脱模与修蜡",
+          "取出蜡模，并通过手工修整完善细节。"
+        ],
+        [
+          "蒸汽脱蜡",
+          "去除蜡料，为玻璃料烧制形成中空模腔。"
+        ],
+        [
+          "玻璃色料填充",
+          "按设计效果排列和填入选定的玻璃色料。"
+        ],
+        [
+          "高温烧制",
+          "通过高温使玻璃料熔合为完整琉璃形态。"
+        ],
+        [
+          "控制退火",
+          "逐步降温，使作品内部结构保持稳定。"
+        ],
+        [
+          "拆除模具",
+          "小心去除烧制模具，释放琉璃作品。"
+        ],
+        [
+          "水磨修整",
+          "采用水磨方式校正表面、底部与边缘。"
+        ],
+        [
+          "抛光清洁",
+          "进一步提升透明度、触感和展示品质。"
+        ],
+        [
+          "检验与包装",
+          "对成品进行检查，并按照运输要求安全包装。"
+        ]
+      ],
+      "summary": "展开 11 道图解工序",
+      "note": "公司提供的工艺示意图片；具体产品的工艺与表面效果请单独确认。"
+    },
+    "oem": {
+      "eyebrow": "OEM / ODM",
+      "title": "从你的构想，走向可确认的样品。",
+      "body": "告诉我们用途、目标市场和设计想法，一起讨论选品、颜色、标识及包装选择，再确认样品开发范围。",
+      "points": [
+        "从现有产品参考或你的设计概念开始",
+        "明确产品、表面处理及使用场景",
+        "确认样品费用、时间与验收依据",
+        "生产前确认包装及订单要求"
+      ],
+      "pdf": "打开采购指南",
+      "workflow": "查看定制流程"
+    },
+    "quality": {
+      "eyebrow": "可以查阅的具体证据",
+      "title": "看清样品，读懂报告。",
+      "body": "U 盘内附两份送检样品测试报告，可核对样品、测试项目、日期与申请方，让采购审核从具体文件开始。",
+      "docs": [
+        [
+          "玻璃杯 · 测试报告",
+          "TQT0023B533E · 2026-07-06\n样品：Liuqi Glass Cup"
+        ],
+        [
+          "糖果罐 · 测试报告",
+          "TQT0023B619E · 2026-07-09\n样品：Coloured glaze Candy Jar"
+        ]
+      ],
+      "matrixTitle": "报告的覆盖范围",
+      "matrixIntro": "申请方：Guangzhou Zowie Ware Trading Co., Ltd.；出具方：Shenzhen Tianqi Testing Technology Service Co., Ltd.。两份报告的所列测试结果为 Pass。",
+      "matrix": {
+        "headers": [
+          "报告",
+          "送检样品",
+          "所列测试范围",
+          "下单前确认",
+          "文件"
+        ],
+        "rows": [
+          [
+            "TQT0023B533E",
+            "Liuqi Glass Cup",
+            "报告列明的食品接触测试",
+            "具体 SPU、材质、装饰及用途"
+          ],
+          [
+            "TQT0023B619E",
+            "Coloured glaze Candy Jar",
+            "引用 FDA 21 CFR Parts 175–178 的测试",
+            "具体糖果罐及目标市场所需测试"
+          ]
+        ]
+      },
+      "disclaimer": "结果仅针对送检样品。报告型号栏为“/”，本目录尚未建立报告与具体 SPU 的对应关系。这些文件不代表全系列认证或 FDA 批准。请按具体产品与目的地索取适用证据。"
+    },
+    "about": {
+      "eyebrow": "关于 ZOWIEWARE",
+      "title": "你在广州的沟通窗口。",
+      "body1": "Guangzhou Zowie Ware Trading Co., Ltd. 是一家贸易与采购服务公司，连接中国琉璃和玻璃器皿资源与海外买家。",
+      "body2": "公司资料所述业务包括设计、产品采购、质量把控和海外销售协调。欢迎带着目标市场的需求，与团队具体讨论产品、样品及包装。",
+      "profile": "下载英文采购指南",
+      "verificationTitle": "清楚了解合作对象",
+      "verificationItems": [
+        [
+          "公司主体",
+          "Guangzhou Zowie Ware Trading Co., Ltd."
+        ],
+        [
+          "业务身份",
+          "贸易、采购与项目协调"
+        ],
+        [
+          "本 U 盘目录",
+          "111 个产品参考 · 5 个系列"
+        ],
+        [
+          "直接联系",
+          "公司邮箱 · WhatsApp · Alibaba 店铺"
+        ]
+      ]
+    },
+    "contact": {
+      "eyebrow": "开启合作",
+      "title": "让合作，从下一步开始。",
+      "body": "在目录中建立选品清单，或直接发送目标市场、产品参考与采购数量。保存联系方式，展会后也可以继续沟通。",
+      "scan": "扫码打开 WhatsApp",
+      "scanIncludes": "需要联网。也可使用左侧邮箱联系；下方 vCard 可离线保存联系人。",
+      "addressLabel": "办公地址",
+      "address": "中国广州市天河区华穗路 406 号保利中景大厦 A 座 2116 室"
+    },
+    "footer": "© 2026 ZowieWare · 秋季采购精选 · 2026 年 9 月 14 日",
+    "catalogPage": {
+      "eyebrow": "2026 商用产品目录",
+      "title": "111 个产品，便捷浏览与选品。",
+      "intro": "按名称或 SPU 搜索，对照规格并建立选品清单。下单前请与我们确认具体实拍图及样品细节。",
+      "search": "搜索产品名称或 SPU",
+      "all": "全部产品体系",
+      "filters": "筛选条件",
+      "packaging": "包装方式",
+      "standard": "标准包装",
+      "gift": "礼盒包装",
+      "results": "个产品",
+      "clear": "清除筛选",
+      "noResults": "没有符合当前条件的产品。",
+      "sku": "SPU",
+      "specification": "规格 / 重量",
+      "moq": "起订量状态",
+      "qty": "数量",
+      "sample": "样品政策",
+      "sampleStandard": "样品供货、费用与运费按具体产品确认。",
+      "officialName": "官方英文产品名称",
+      "giftUnavailable": "专属包装请单独询价",
+      "referenceImage": "类目参考图",
+      "requestPhoto": "索取该 SPU 实拍图",
+      "addRfq": "加入询价单",
+      "addedRfq": "已加入询价单",
+      "selectedCount": "个产品已选择",
+      "reviewRfq": "查看询价单",
+      "rfqEyebrow": "批量询价工具",
+      "rfqTitle": "生成清晰、完整的采购询价单。",
+      "rfqIntro": "请填写每个 SPU 的目标采购数量、包装偏好、目的地和希望采用的贸易条款。这里填写的是您的采购需求，并非公开起订量。",
+      "buyerName": "您的姓名",
+      "buyerCompany": "公司名称",
+      "market": "目标市场",
+      "destination": "目的地城市 / 港口",
+      "preferredTerm": "期望贸易条款",
+      "preferredLogistics": "期望物流方式",
+      "toConfirm": "待确认",
+      "sea": "海运",
+      "air": "空运",
+      "courier": "国际快递",
+      "notes": "定制、交期或其他说明",
+      "quantity": "目标数量",
+      "remove": "移除",
+      "emailRfq": "生成询价邮件",
+      "whatsappRfq": "打开 WhatsApp",
+      "downloadCsv": "下载产品需求表格",
+      "clearRfq": "清空已选产品",
+      "rfqPrivacy": "本离线展厅不会上传信息。只有您主动选择时，才会打开邮件或 WhatsApp。",
+      "emptyRfq": "请先从目录中选择产品。",
+      "moqPending": "随正式报价确认",
+      "tradeTerms": "支持贸易条款：EXW / FOB / CIF",
+      "publicDataNote": "本目录包含 111 个产品参考，供货情况、起订量及价格通过报价确认。",
+      "quotationBasis": "报价依据：SPU · 目标数量 · 包装 · 目的地 · 贸易条款 · 定制要求",
+      "downloadTxt": "下载完整询价 TXT",
+      "longMessage": "询价内容较长，邮件或 WhatsApp 链接可能无法完整承载。请下载完整 TXT 或 CSV 后随消息发送。",
+      "invalidQuantity": "数量请填写正整数。",
+      "sessionOnly": "选品与询价信息仅在当前页面会话中保留。刷新或离开目录前请先下载。",
+      "samplePending": "按选品确认",
+      "productPhoto": "产品参考图 · 下单前确认所选颜色及尺寸",
+      "seriesPhoto": "系列参考图 · 尚未单独展示所选尺寸",
+      "photoPending": "对应产品图片待确认",
+      "aiColourMockup": "AI 生成蓝色效果示意 · 以实际样品为准"
+    },
+    "trade": {
+      "eyebrow": "全球贸易支持",
+      "title": "提前说清交付细节。",
+      "body": "ZowieWare 可协调出口包装与国际订单运输方案。具体运费、保险、关税、港口费用及目的地服务，将根据每票货物单独确认。",
+      "collectionTitle": "全球贸易支持",
+      "collectionMeta": "包装 · 物流 · 订单单据",
+      "collectionAlt": "为国际贸易支持准备的 ZowieWare 玻璃产品",
+      "items": [
+        [
+          "贸易条款",
+          "EXW · FOB · CIF",
+          "根据订单范围与目的地协商适用条款。"
+        ],
+        [
+          "运输方式",
+          "海运 · 空运 · 快递",
+          "路线、费用和可提供的服务按具体货运确认。"
+        ],
+        [
+          "样品安排",
+          "按所选产品报价",
+          "先确认样品供货、费用、运费及开发范围。"
+        ],
+        [
+          "协同服务",
+          "包装 · 单据",
+          "一起确认防护、拼单及可提供的运输单据。"
+        ]
+      ]
+    },
+    "quotation": {
+      "eyebrow": "正式询价",
+      "title": "完整报价，从完整需求开始。",
+      "body": "提供所选 SPU、目标数量、包装需求、目的地与目标时间，再沟通供货、起订量、样品费用及具体报价。",
+      "stepsTitle": "建议提供的信息",
+      "steps": [
+        [
+          "01",
+          "产品信息",
+          "SPU、产品名称及需要的规格或款式。"
+        ],
+        [
+          "02",
+          "目标数量",
+          "您计划采购的数量，不代表页面公开起订量。"
+        ],
+        [
+          "03",
+          "包装偏好",
+          "标准防护、礼盒方案或专属包装需求。"
+        ],
+        [
+          "04",
+          "目的地",
+          "国家、目标市场以及目的地城市或港口。"
+        ],
+        [
+          "05",
+          "交付基础",
+          "期望采用的 EXW、FOB 或 CIF 条款及物流方式。"
+        ],
+        [
+          "06",
+          "定制要求",
+          "Logo、颜色、结构、印刷、目标交期和其他要求。"
+        ]
+      ],
+      "packagingTitle": "可选包装方案",
+      "packaging": [
+        [
+          "玻璃器皿与餐具",
+          "按具体产品讨论独立防护、内衬及外箱。"
+        ],
+        [
+          "琉璃首饰",
+          "讨论展示效果与独立保护包装。"
+        ],
+        [
+          "琉璃收藏艺术品",
+          "按尺寸和重量讨论缓冲材料及加固外包装。"
+        ],
+        [
+          "定制包装",
+          "确认结构、材料、印刷稿、数量及费用后再实施。"
+        ]
+      ],
+      "disclaimer": "包装与交付安排按具体产品及订单确认，费用与包含项目以正式报价约定为准。"
+    },
+    "quick": {
+      "catalog": "挑选产品系列",
+      "craft": "了解琉璃工艺",
+      "trust": "查看样品报告",
+      "contact": "开始沟通"
+    },
+    "confidence": {
+      "eyebrow": "下单前一起确认",
+      "title": "四个明确的合作节点。",
+      "body": "让喜欢的产品，成为要求清楚、依据明确的订单。",
+      "items": [
+        [
+          "01",
+          "具体产品",
+          "确认 SPU、当前实拍图、尺寸、材质、表面效果及用途。"
+        ],
+        [
+          "02",
+          "确认样品",
+          "约定样品费用与时间，并书面确认参考样品和规格。"
+        ],
+        [
+          "03",
+          "验收依据",
+          "约定检验范围、可接受差异、保护包装和目标市场测试要求。"
+        ],
+        [
+          "04",
+          "出货细节",
+          "在报价中明确数量、交期、贸易条款、目的地及所需单据。"
+        ]
+      ]
+    }
+  }
+}

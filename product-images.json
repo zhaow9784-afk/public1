@@ -1,0 +1,447 @@
+{
+  "GH-CUP-001": {
+    "status": "product-reference",
+    "image": "assets/images/products/GH-CUP-001.jpg"
+  },
+  "GH-CUP-002": {
+    "status": "product-reference",
+    "image": "assets/images/products/GH-CUP-002.jpg"
+  },
+  "GH-CUP-004": {
+    "status": "product-reference",
+    "image": "assets/images/products/GH-CUP-004.jpg"
+  },
+  "GH-CUP-005": {
+    "status": "product-reference",
+    "image": "assets/images/products/GH-CUP-005.jpg"
+  },
+  "GH-CUP-006": {
+    "status": "product-reference",
+    "image": "assets/images/products/GH-CUP-006.jpg"
+  },
+  "GH-CUP-003": {
+    "status": "product-reference",
+    "image": "assets/images/products/GH-CUP-003.jpg"
+  },
+  "GH-STE-007": {
+    "status": "product-reference",
+    "image": "assets/images/products/GH-STE-007.jpg"
+  },
+  "GH-BWL-008": {
+    "status": "product-reference",
+    "image": "assets/images/products/GH-BWL-008.jpg"
+  },
+  "LH-CUP-002": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-CUP-002.png"
+  },
+  "LH-CUP-003": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-CUP-003.jpg"
+  },
+  "LH-CUP-004": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-CUP-004.png"
+  },
+  "LH-CUP-005": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-CUP-005.png"
+  },
+  "LH-CUP-006": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-CUP-006.jpg"
+  },
+  "LH-CUP-007": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-CUP-007.png"
+  },
+  "LH-CUP-008": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-CUP-008.jpg"
+  },
+  "LH-STE-018": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-018.jpg"
+  },
+  "LH-STE-020": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-020.jpg"
+  },
+  "LH-STE-022": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-022.jpg"
+  },
+  "LH-STE-023": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-023.png"
+  },
+  "LH-STE-024": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-024.jpg"
+  },
+  "LH-STE-025": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-025.jpg"
+  },
+  "LH-BWL-013": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-BWL-013.jpg"
+  },
+  "LH-CUP-001": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-CUP-001.png"
+  },
+  "LH-CUP-009": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-CUP-009.jpg"
+  },
+  "LH-CUP-010": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-CUP-010.jpg"
+  },
+  "LH-BWL-011": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-BWL-011.jpg"
+  },
+  "LH-BWL-012": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-BWL-012.jpg"
+  },
+  "LH-BWL-014": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-BWL-014-bowl-and-saucer.jpg"
+  },
+  "LH-JAR-015": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-JAR-015.jpg"
+  },
+  "LH-STE-016": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-016.jpg"
+  },
+  "LH-STE-017": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-017.jpg"
+  },
+  "LH-STE-019": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-019.jpg"
+  },
+  "LH-STE-021": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-021.png"
+  },
+  "LH-STE-026": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-026.jpg"
+  },
+  "LH-STE-027": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-027.jpg"
+  },
+  "LH-STE-028": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-STE-028.jpg"
+  },
+  "LH-SET-029": {
+    "status": "product-reference",
+    "image": "assets/images/products/LH-SET-029.jpg"
+  },
+  "LA-ART-001": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-ART-001.jpg"
+  },
+  "LA-ART-002": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-ART-002.png"
+  },
+  "LA-ART-003": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-ART-003.jpg"
+  },
+  "LA-ART-004": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-ART-004.jpg"
+  },
+  "LA-FLR-005": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-005.jpg"
+  },
+  "LA-FLR-006": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-006.jpg"
+  },
+  "LA-FLR-007": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-007.jpg"
+  },
+  "LA-FLR-008": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-008.jpg"
+  },
+  "LA-FLR-009": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-009.jpg"
+  },
+  "LA-FLR-010": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-010.jpg"
+  },
+  "LA-FLR-011": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-011.jpg"
+  },
+  "LA-FLR-012": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-012.jpg"
+  },
+  "LA-FLR-015": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-015.jpg"
+  },
+  "LA-FLR-016": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-016.jpg"
+  },
+  "LA-FLR-020": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-020.jpg"
+  },
+  "LA-FLR-021": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-021.jpg"
+  },
+  "LA-FLR-022": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-022.jpg"
+  },
+  "LA-FLR-023": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-023.jpg"
+  },
+  "LA-FLR-024": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-024.jpg"
+  },
+  "LA-FLR-025": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-025.jpg"
+  },
+  "LA-FLR-029": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-029.jpg"
+  },
+  "LA-FLR-030": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-030.jpg"
+  },
+  "LA-FLR-031": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-031.jpg"
+  },
+  "LA-FLR-013": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-013.jpg"
+  },
+  "LA-FLR-014": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-014.jpg"
+  },
+  "LA-FLR-017": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-017.jpg"
+  },
+  "LA-FLR-018": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-018.jpg"
+  },
+  "LA-FLR-019": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-019.jpg"
+  },
+  "LA-FLR-026": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-026.jpg"
+  },
+  "LA-FLR-027": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-027.jpg"
+  },
+  "LA-FLR-028": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-028.jpg"
+  },
+  "LA-FLR-032": {
+    "status": "product-reference",
+    "image": "assets/images/products/LA-FLR-032.jpg"
+  },
+  "LJ-BRC-001": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC-001.jpg"
+  },
+  "LJ-BRC-002": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC-002.jpg"
+  },
+  "LJ-BRC-003": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC-003.jpg"
+  },
+  "LJ-BRC-004": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC-004.jpg"
+  },
+  "LJ-BRC-005": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC-005.jpg"
+  },
+  "LJ-BRC-006": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC-006.jpg"
+  },
+  "LJ-BRC-007": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC-007.jpg"
+  },
+  "LJ-BRC008": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC008.jpg"
+  },
+  "LJ-BRC009": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC009.jpg"
+  },
+  "LJ-BRC010": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC010.jpg"
+  },
+  "LJ-BRC012": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC012.jpg"
+  },
+  "LJ-BRC013": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC013.jpg"
+  },
+  "LJ-BRC014": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC014.jpg"
+  },
+  "LJ-BRC015": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC015.jpg"
+  },
+  "LJ-BRC016": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC016.jpg"
+  },
+  "LJ-BRC017": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC017.jpg"
+  },
+  "LJ-BRC018": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC018.jpg"
+  },
+  "LJ-BRC019": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC019.jpg"
+  },
+  "LJ-BRC020": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC020.png"
+  },
+  "LJ-BRC021": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC021.jpg"
+  },
+  "LJ-BRC022": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC022.jpg"
+  },
+  "LJ-BRC023": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC023.png"
+  },
+  "LJ-BRC024": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC024.png"
+  },
+  "LJ-BRC025": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC025.jpg"
+  },
+  "LJ-BRC026": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC026.jpg"
+  },
+  "LJ-BRC027": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC027.jpg"
+  },
+  "LJ-BRC028": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC028.jpg"
+  },
+  "LJ-BRC029": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC029.jpg"
+  },
+  "LJ-BRC031": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC031.jpg"
+  },
+  "LJ-BRC037": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC037.jpg"
+  },
+  "LJ-BRC038": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC038.jpg"
+  },
+  "LJ-BRC039": {
+    "status": "ai-colour-mockup",
+    "image": "assets/images/products/LJ-BRC039-blue-ai-mockup.png",
+    "showCaption": false
+  },
+  "LJ-BRC032": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC032.jpg"
+  },
+  "LJ-BRC033": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC033.jpg"
+  },
+  "LJ-BRC036": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC036.jpg"
+  },
+  "LJ-BRC042": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC042.jpg"
+  },
+  "LJ-BRC043": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC043.jpg"
+  },
+  "LJ-BRC030": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC030.jpg"
+  },
+  "LJ-BRC034": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC034.jpg"
+  },
+  "LJ-BRC035": {
+    "status": "product-reference",
+    "image": "assets/images/products/LJ-BRC035.jpg"
+  },
+  "LJ-BRC040": {
+    "status": "series-reference",
+    "image": "assets/images/products/LJ-BRC040.jpg"
+  },
+  "LJ-BRC041": {
+    "status": "series-reference",
+    "image": "assets/images/products/LJ-BRC041.jpg"
+  }
+}
